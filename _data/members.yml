@@ -1,0 +1,313 @@
+# 구성원 명단. 각 그룹(staff / phd / ms / alumni)의 항목을 추가·수정하면 페이지에 자동 반영됩니다.
+# 필드: name(필수), name_en, role, email, photo(/assets/img/uploads/... 또는 외부 URL), topics(목록), current(alumni 현재 소속)
+# 사진이 없으면 photo에 /assets/img/uploads/2024/08/APL-로고-03.png 을 넣으면 됩니다.
+staff:
+- name: 이종권
+  name_en: Jongkwon Lee
+  role: Post Doctor
+  photo: /assets/img/uploads/2023/11/1.-이종권_박사과정.png
+  topics:
+  - 'Turbulent combustion: Gas turbine, IC engines'
+  - Multiphase flows
+- name: 전대영
+  name_en: Daeyoung Jun
+  role: Post Doctor
+  email: dy.jun [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/5.-전대영_박사과정_1-e1725781981987.jpg
+  topics:
+  - Thermo-acoustic instability
+  - E-field / Plasma-assisted combustion
+  - Flames and detonation dynamics
+phd:
+- name: Muhannad Alanazy
+  role: Ph.D. Student
+  email: 2022-39533 [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/8.-무하나드_박사과정-e1725781604879.jpg
+  topics:
+  - Hypersonic Combustion
+- name: 김주훈
+  name_en: Juhoon Kim
+  role: Ph.D. Student
+  email: jhkim_rs [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/3.-김주훈_박사과정_2.png
+  topics:
+  - Reactive flow simulations
+  - Numerical boundary conditions
+  - Machine learning
+- name: 김진영
+  name_en: Jinyoung Ted Kim
+  role: Ph.D. Student
+  email: kimted [at] snu.ac.kr
+  photo: /assets/img/uploads/2024/08/10.-김진영_박사과정.jpg
+  topics:
+  - Hypersonic shock tunnel experiment & flow diagnostics
+  - Temperature Sensitive Paint (TSP) for high enthalpy flow
+  - Dynamic instability analysis of atmospheric entry capsule
+- name: 김진휘
+  name_en: Jinhwi Kim
+  role: Ph.D. Student
+  email: harrykim0814 [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/17.-김진휘_석사과정.jpg
+  topics:
+  - Rarefied gas dynamics
+  - Hypersonic shock tunnel experiment
+- name: 남준혁
+  name_en: Junhyuk Nam
+  role: Ph.D. Student
+  email: njh970101 [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/13.-남준혁_박사과정.jpg
+  topics:
+  - SCRamjet propulsion systems
+  - Hypersonic shock tunnel experiment
+- name: 서성일
+  name_en: Seongil Seo
+  role: Ph.D. Student
+  email: manijeon [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/11.-서성일_박사과정_1-e1725781841175.jpg
+  topics:
+  - Space propulsion
+  - Space Situational Awareness (SSA)
+- name: 송찬주
+  name_en: Chanju Song
+  role: Ph.D. Student
+  email: cosmoSCJ [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/7.-송찬주_박사과정_2.jpg
+  topics:
+  - Space propulsion
+  - Hypergolic propellant combustion
+- name: 이승수
+  name_en: Seungsoo Lee
+  role: Ph.D. Student
+  email: sadsoo [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/6.-이승수_박사과정_2.jpg
+  topics:
+  - Explosion dynamics
+- name: 이유리
+  name_en: Yuri Lee
+  role: Ph.D. Student
+  email: leeyuri_24 [at] snu.ac.kr
+  photo: /assets/img/uploads/2024/08/12.-이유리_박사과정-e1725781919327.jpg
+  topics:
+  - Remote sensing
+  - Satellite systems
+- name: 이현섭
+  name_en: Hyunseob Lee
+  role: Ph.D. Student
+  email: hyunseob.lee [at] snu.ac.kr
+  photo: /assets/img/uploads/2024/08/Cropped_Image.png
+  topics:
+  - Turbulent Combustion
+  - Thermoacoustic Instability
+  - Rocket Propulsion
+- name: 정석현
+  name_en: SeogHyeon Jeong
+  role: Ph.D. Student
+  email: sh.jeong [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/18.-정석현_석사과정_2.jpg
+  topics:
+  - Air-breathing electric propulsion
+  - Rarefied gas dynamics
+  - Regenerative cooling system for SCRamjet/Rocket engine
+- name: 조서희
+  name_en: Seohee Cho
+  role: Ph.D. Student
+  email: tjgml9797 [at] snu.ac.kr
+  photo: /assets/img/uploads/2024/08/9.-조서희_박사과정-1-e1725844930335.jpg
+  topics:
+  - Hydrogen combustion
+  - Ammonia combustion
+  - Combustion diagnostics
+- name: 허정무
+  name_en: Jungmu Hur
+  role: Ph.D. Student
+  email: gjwjdan135 [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/15.-허정무_석사과정.jpg
+  topics:
+  - Hypersonic flow diagnostics
+  - Hypersonic shock tunnel experiment
+  - Mars entry dynamics
+ms:
+- name: 권나현
+  name_en: Nahyun Kwon
+  role: M.S. Student
+  email: hyunna123 [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/02/권나현.jpg
+- name: 류지헌
+  name_en: Jiheon Ryu
+  role: M.S. Student
+  email: ryu.nocturnal [at] snu.ac.kr
+  photo: /assets/img/uploads/2025/02/22.-류지헌_석사과정.jpg
+  topics:
+  - High-Speed Aerodynamics
+- name: 박지원
+  name_en: Jiwon Park
+  role: M.S. Student
+  email: batwon0817 [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/02/박지원.jpg
+- name: 서준
+  name_en: Joon Seo
+  role: M.S. Student
+  email: seojoon [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/02/서준.jpg
+- name: 이동규
+  name_en: Donggyu Lee
+  role: M.S. Student
+  email: dino9944 [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/02/이동규.jpg
+- name: 최은정
+  name_en: Eun Jeong Choi
+  role: M.S. Student/Staff
+  email: choi84 [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/02/최은정.jpg
+- name: 최익현
+  name_en: Ik Hyun Choi
+  role: M.S. Student
+  email: cih0212 [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/02/최익현.jpg
+- name: 허규돈
+  name_en: Kyu Don Heo
+  role: M.S. Student
+  email: don0605 [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/02/허규돈정복.jpg
+alumni:
+- name: Freshteh Sotoudeh
+  role: Research Associate (M.S.)
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Pursuing Ph.D. in University of Texas Austin, TX, USA
+  topics:
+  - Multi-phase Flow
+- name: Karl Fredrik Anflo
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Samsung Electronics
+  topics:
+  - Electric space propulsion
+  - Plasma simulation
+- name: Mahendra Reddy Vanteru
+  role: Professor at IIT Kharagpur
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: MILD Combustion
+  topics:
+  - Emission Control
+- name: Rawdha Alhammadi
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Tawazun Technology and Innovation
+- name: 권도환
+  name_en: DoHwan Kwon
+  role: M.S.
+  photo: /assets/img/uploads/2023/11/14.-권도환_석사과정_졸업.jpg
+  current: Hyundai Rotem
+  topics:
+  - Supersonic combustion
+  - Machine learning (combustion)
+- name: 김성돈
+  name_en: Sung Don Kim
+  role: Ph.D. Staff Scientist
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Low swirl gas turbine combustor
+  topics:
+  - Numerical simulation of turbulent combustion
+- name: 김용수
+  name_en: Yongsu Kim
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Samsung Electronics
+  topics:
+  - Numerical simulation of supersonic flow
+  - Ramjet/SCramjet propulsion systems
+- name: 박윤식
+  name_en: Yoonsik Park
+  role: Ph.D.
+  photo: /assets/img/uploads/2023/11/2.-박윤식_박사과정.jpg
+  current: Hyundai Heavy Industries
+  topics:
+  - Ramjet/SCRamjet propulsion systems
+  - Hypersonic and high-enthalpy aerothermodynamics
+- name: 박정재
+  name_en: Jeongjae Park
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Hanwha Aerospace
+  topics:
+  - Hypersonic Flow
+- name: 송영두
+  name_en: YoungDoo Song
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/IMG_7107-e1725782050673.jpg
+  current: Hydrogen combustion, Flame modeling
+- name: 윤정훈
+  name_en: Jeonghoon Yun
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Republic of Korea Army
+  topics:
+  - Space Situational Awareness (SSA)
+  - Space Operation
+- name: 이상윤
+  name_en: Sangyoon Lee
+  role: Ph.D.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Inha University
+  topics:
+  - Aero-optics
+  - Micro-scale combustion
+- name: 이정용
+  name_en: Jeongyong Lee
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Hyundai Motor Group
+  topics:
+  - Machine learning (Combustion & Aerodynamics)
+- name: 이종윤
+  name_en: Jongyoon Lee
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Hanwha Aerospace
+  topics:
+  - Supersonic flow
+  - Fuel cell powered aircraft
+- name: 전병주
+  name_en: Byoungjoo Chun
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Innospace
+  topics:
+  - Low swirl gas turbine combustor
+  - Clean combustion
+- name: 정휘원
+  name_en: Hwiwon Jeong
+  role: M.S.
+  photo: /assets/img/uploads/2023/11/21.-정휘원_석사과정-e1725782141942.jpg
+  current: Hanwha Aerospace
+  topics:
+  - Laser Debris Removal / Laser Ablation Propulsion
+- name: 주영준
+  name_en: Yeongjun Ju
+  role: M.S.
+  photo: /assets/img/uploads/2023/11/16.-주영준_석사과정_1-e1725782092677.jpeg
+  current: Hyundai Rotem
+  topics:
+  - Hypergolic propellant combustion
+- name: 한서음
+  name_en: Seoeum Han
+  role: Ph.D.
+  photo: /assets/img/uploads/2023/11/4.-한서음_박사과정-e1725845038883.jpg
+  current: Korea Aerospace Research Institute
+  topics:
+  - Re-entry aerodynamics
+  - Scramjet propulsion
+- name: 홍슬기
+  name_en: Seulki Hong
+  role: M.S.
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Hanwha Aerospace
+  topics:
+  - Supersonic flow
+  - Fuel cell powered aircraft
+- name: 황병욱
+  name_en: Byeonguk Hwang
+  role: M.S.
+  email: uk12221 [at] snu.ac.kr
+  photo: /assets/img/uploads/2023/11/20.-황병욱_석사과정.png
+  current: Aerodynamics and heat transfer

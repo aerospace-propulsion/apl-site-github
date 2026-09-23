@@ -1,0 +1,20 @@
+{% comment %} 사용법: {% include pub-list.html data=site.data.publications_international %} {% endcomment %}
+{% assign pubs = include.data %}
+{% assign years = pubs | map: 'year' | uniq %}
+{% for y in years %}
+<h2 class="year-head">{{ y }}</h2>
+<ul class="pub-list">
+  {% for p in pubs %}{% if p.year == y %}
+  <li class="pub-item">
+    <div>
+      <p class="title"><a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a></p>
+      <p class="cite">{{ p.authors_journal }}</p>
+    </div>
+    {% if p.image %}
+    {% if p.image contains '://' %}{% assign img = p.image %}{% else %}{% assign img = p.image | relative_url %}{% endif %}
+    <div class="thumb"><a href="{{ p.url }}" target="_blank" rel="noopener"><img src="{{ img }}" alt="" loading="lazy"></a></div>
+    {% endif %}
+  </li>
+  {% endif %}{% endfor %}
+</ul>
+{% endfor %}

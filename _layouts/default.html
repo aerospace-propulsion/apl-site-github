@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'ko' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="{{ '/assets/img/favicon.jpg' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=JetBrains+Mono:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% seo title=false %}
+</head>
+<body>
+  <a class="skip" href="#content">본문 바로가기</a>
+  {% include header.html %}
+  <main id="content" class="site-main{% if page.wide %} wide{% endif %}">
+    {% unless page.hide_title %}
+    <div class="page-head">
+      <div class="container">
+        {% if page.crumb %}<div class="crumb">{{ page.crumb }}</div>{% endif %}
+        <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+      </div>
+    </div>
+    {% endunless %}
+    {% if page.wide %}{{ content }}{% else %}<div class="container">
+      {{ content }}
+    </div>{% endif %}
+  </main>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+# 홈 화면 슬라이드와 공지. 슬라이드는 image(정지 이미지) 또는 video(mp4, image는 포스터) 로 지정합니다.
+tagline: 극초음속 공기역학과 추진, 수소 에너지·연소, 우주 기술을 실험과 고성능 전산해석으로 연구합니다. 국내 유일의 고엔탈피 충격파 풍동(SHyST)을 운영합니다.
+
+# 홈 화면 연구 분야 카드 4개
+areas:
+  - title: Hypersonic Aerodynamics
+    desc: 극초음속·고엔탈피 공력열역학, 강한 충격파용 리만 해법, SHyST 실험과 유동 가시화
+    image: /assets/img/uploads/2024/09/1-1.png
+    url: /research/interests/
+  - title: Hypersonic Propulsion
+    desc: 램제트·스크램제트, 복합 사이클 추진, 충격파-경계층 상호작용과 다공성 블리드
+    image: /assets/img/uploads/2024/09/2-2-1024x656.png
+    url: /research/interests/
+  - title: Hydrogen Energy
+    desc: 회전 데토네이션 엔진, 데토네이션 차단기, DNS·LES 기반 청정 고효율 연소
+    image: /assets/img/uploads/2024/08/fig_Tcontour_RSSI-1024x861.png
+    url: /research/interests/
+  - title: Space Technology
+    desc: 위성 공력·추진, 하이퍼골릭 재사용 우주비행체, 우주물체 파편화, 달 착륙 먼지 비산
+    image: /assets/img/uploads/2024/09/4-1.png
+    url: /research/interests/
+
+slides:
+  # 사진 출처: 한국항공우주연구원(KARI), 공공누리 제1유형(출처표시). 연구실 사진으로 교체하려면 image 경로만 바꾸면 됩니다.
+  - image: /assets/img/hero/nuri-launch-2021.jpg
+    pos: 60% 40%   # 사진에서 보여줄 위치(가로 세로)
+    alt: "누리호(KSLV-II) 1차 발사, 2021.10.21 (사진: 한국항공우주연구원)"
+  - image: /assets/img/hero/kslv2-75t-combustor-test.jpg
+    alt: "한국형발사체 75톤급 연소기 연소시험 (사진: 한국항공우주연구원)"
+  - video: /assets/img/uploads/2024/08/combustion-instability-1.mp4
+    image: /assets/img/uploads/2024/08/combustion-instability-1.jpg
+    alt: "연소 불안정 수치해석 (APL)"
+  - image: /assets/img/hero/nuri-first-stage-cluster-test.jpg
+    alt: "누리호 1단 300톤급 클러스터링 연소시험 (사진: 한국항공우주연구원)"
+  - video: /assets/img/uploads/2024/08/collisions_of_two_rings.mp4
+    image: /assets/img/uploads/2024/08/collisions_of_two_rings.jpg
+    alt: "와류 고리 충돌 해석 (APL)"
+  - image: /assets/img/hero/kslv2-75t-engine.jpg
+    pos: 65% center
+    alt: "한국형발사체 75톤급 액체엔진 (사진: 한국항공우주연구원)"
+  - image: /assets/img/hero/nuri-on-launchpad.jpg
+    pos: 70% center
+    alt: "나로우주센터 발사대에 기립한 누리호 (사진: 한국항공우주연구원)"
+  - video: /assets/img/uploads/2024/08/propeller_정석현.mp4
+    image: /assets/img/uploads/2024/08/propeller_정석현.jpg
+    alt: "프로펠러 유동 해석 (APL)"
+
+notice: |
+  Those who are interested in joining APL as graduate students and research staffs are kindly asked to contact Prof. Bok Jik Lee in advance via email (b.lee [at] snu.ac.kr) with **CV**, **GPA** and **English records**.
+
+  내국인 학생의 경우 TEPS(또는 TOEFL) 성적 확보 후 진학 문의/상담을 하기 바랍니다.

@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+# 로컬 미리보기: bundle install && bundle exec jekyll serve  (Ruby 3.x/4.x)
+gem "jekyll", "~> 4.4"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "webrick"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"

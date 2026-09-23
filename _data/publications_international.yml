@@ -1,0 +1,487 @@
+# 논문 목록 (최신순). 새 논문은 맨 위에 추가하면 됩니다.
+# 필드: title, authors_journal(저자·학술지·권호 한 줄), year, url(DOI 링크), image(대표 그림)
+- title: Cryogenic spray characteristics of a multi-slit type throttleable gas-luquid pintle injector
+  authors_journal: S Heo, J Jeong, Y Yoon, BJ Lee, Cryogenics (2026) 161:104440
+  year: 2026
+  url: https://doi.org/10.1016/j.cryogenics.2026.104440
+  image: /assets/img/uploads/2026/07/26-11.png
+- title: Time-averaged simulated microgravity ameliorates tau-induced deficit in Drosophila melanogaster
+  authors_journal: SY Park, S Park, HJ Park, H Park, BJ Lee, S Kim, YS Chun, npj Microgravity (2026) Available Online.
+  year: 2026
+  url: https://doi.org/10.1038/s41526-026-00626-9
+  image: /assets/img/uploads/2026/07/26-10.jpg
+- title: 'Shock Wave-Bubble Interactions: Effects of Bubble Size and Gas Properties on Instability Dynamics'
+  authors_journal: FA Parizad, M Mousavi, BJ Lee, Computers and Fluids (2026) 317:107167
+  year: 2026
+  url: https://doi.org/10.1016/j.compfluid.2026.107161
+  image: /assets/img/uploads/2026/06/26-9.jpg
+- title: A review on development cases and research trends of gas-liquid pintle injectors
+  authors_journal: S Heo, K Ahn, BJ Lee, Y Yoon, Acta Astronautica (2026) 247:268-284
+  year: 2026
+  url: https://doi.org/10.1016/j.actaastro.2026.05.006
+  image: /assets/img/uploads/2026/06/26-8.jpg
+- title: Efficient two-stage optimization framework for hypersonic contoured nozzle design and experimental validation
+  authors_journal: J Kim, J Nam, Y Park, J Hur, J Kim, BJ Lee, Acta Astronautica (2026) 246:391-402
+  year: 2026
+  url: https://doi.org/10.1016/j.actaastro.2026.04.029
+  image: /assets/img/uploads/2026/04/26-7.jpeg
+- title: Interaction of Ammonia Droplets with Spherically Expanding Laminar Lean Hydrogen-Air Flames
+  authors_journal: L Engelmann, R Concettic, D Jun, BJ Lee, M Klein, J Hasslberger, International Journal of Hydrogen Energy (2026) 229:154755
+  year: 2026
+  url: https://doi.org/10.1016/j.ijhydene.2026.154755
+  image: /assets/img/uploads/2026/04/26-6.jpeg
+- title: Effects of hydrogen enrichment on the autoignition and lift-off behavior of ammonia jet flames in hot coflows
+  authors_journal: D Jun, SH Cho, VM Reddy, BJ Lee, Combustion and Flame (2026) 286:114820
+  year: 2026
+  url: https://doi.org/10.1016/j.combustflame.2026.114820
+  image: /assets/img/uploads/2026/02/26-5.jpg
+- title: 'Physics-informed neural networks in clean combustion: A pathway to sustainable aerospace propulsion'
+  authors_journal: M Mousavi, C Caldwell, J Baltes, FA Parizad, M Aljasem, BJ Lee, N Karimi, Chemical Engineering Research and Design (2026) 226:258-281
+  year: 2026
+  url: https://doi.org/10.1016/j.cherd.2026.01.008
+  image: /assets/img/uploads/2026/01/26-4.jpg
+- title: 'neqFoam: An OpenFOAM-based Solver with a Unified Approach for the Theermochemical Non-Equilibrium Simulations'
+  authors_journal: Y Park, J Kim, J Nam, BJ Lee, Computer Physics Communications (2026) 319:109940
+  year: 2026
+  url: https://doi.org/10.1016/j.cpc.2025.109940
+  image: /assets/img/uploads/2025/11/25-14.jpg
+- title: Investigation of Staging Techniques for Hydrocarbon-Assisted Ammonia Flames in a novel Dual-Stage Combustor
+  authors_journal: G Udaybhanu, BR Giri, BJ Lee, KP Shrestha, WL Roberts, F Mauss, VM Reddy, Combustion and Flame (2026) 284:114607
+  year: 2026
+  url: https://doi.org/10.1016/j.combustflame.2025.114607
+  image: /assets/img/uploads/2025/11/26-1.jpg
+- title: Experimental Investigation of Flow Enthalpy Effects on Boundary-Layer Transition over a Sharp Cone
+  authors_journal: J Hur, J Nam, J Kim, J Kim, S Jeong, BJ Lee, Aerospace Science and Technology (2026) 168:111169
+  year: 2026
+  url: https://doi.org/10.1016/j.ast.2025.111169
+  image: /assets/img/uploads/2025/11/25-13.jpg
+- title: A Data-driven Body Vortex Modeling for Engineering-Level Missile Aerodynamic Prediction
+  authors_journal: D Jun, H Nam, H Yoo, BJ Lee, H Kim, International Journal of Aeronautical & Space Sciences (2025) 27:2070-2084
+  year: 2025
+  url: https://doi.org/10.1007/s42405-025-01082-7
+  image: /assets/img/uploads/2025/12/25-15-1024x848.webp
+- title: Experimental study of nose-tip bluntness effects on hypersonic boundary-layer transition in a shock tunnel
+  authors_journal: J Kim, J Nam, J Hur, J Kim, BJ Lee, Scientific Report (2025) 15:38301
+  year: 2025
+  url: https://doi.org/10.1038/s41598-025-22323-5
+  image: /assets/img/uploads/2025/11/25-12-1.png
+- title: On the Influence of the Small-Scale Flow on Cycle-to-Cycle Variations in Charge Diluted Spark-Ignition Engines
+  authors_journal: L Engelmann, J Lee, BJ Lee, B Böhm, Combustion and Flame (2025) 282:114470
+  year: 2025
+  url: https://doi.org/10.1016/j.combustflame.2025.114470
+  image: /assets/img/uploads/2025/09/25-11.jpg
+- title: Numerical Analysis of Misfire in an Automotive Lean-Burn Direct-Injection Spark-Ignition Engine
+  authors_journal: L Engelmann, J Lee, BJ Lee, J Kim, Case Studies in Thermal Engineering (2025) 74:106847
+  year: 2025
+  url: https://doi.org/10.1016/j.csite.2025.106847
+  image: /assets/img/uploads/2025/08/25-10.jpg
+- title: Spray structure of a multi-slit type throttleable gas-liquid pintle injector
+  authors_journal: S Heo, I Kim, Y Yoon, BJ Lee, Physics of Fluids (2025) 37:083328
+  year: 2025
+  url: https://doi.org/10.1063/5.0274886
+  image: /assets/img/uploads/2025/08/25-9.jpg
+- title: Numerical Investigation of a Supersonic Wind Tunnel Diffuser Optimization
+  authors_journal: R Nicoletti, F Margani, L Armani, A Ingenito, C Fujio, H Ogawa, S Han, BJ Lee, Aerospace (2025) 12(5):366
+  year: 2025
+  url: https://doi.org/10.3390/aerospace12050366
+  image: /assets/img/uploads/2025/05/25-8.jpg
+- title: Toward quantification of the information content in flow variables under cycle-to-cycle variations
+  authors_journal: L Engelmann, C Welch, J Lee, BJ Lee, B Böhm, International Journal of Engine Research (2025) Online
+  year: 2025
+  url: https://doi.org/10.1177/14680874251326306
+  image: /assets/img/uploads/2025/05/25-7.jpg
+- title: Experimental and numerical investigation of NH3 flames under the influence of hot flue gases in a novel two stage porous burner
+  authors_journal: G Udaybhanu, M Srinivasarao, MB Rajguru Mohapatro, AG Abdul Jameel, BJ Lee, O Kuti, VM Reddy, Fuel (2025) 396:135395
+  year: 2025
+  url: https://doi.org/10.1016/j.fuel.2025.135395
+  image: /assets/img/uploads/2025/04/25-6.jpg
+- title: Spray angle prediction model for a multi-slit type throttleable gas-liquid pintle injector
+  authors_journal: S Heo, J Jeong, DH Kim, Y Yoon, BJ Lee, Acta Astronautica (2025) 231:113-126
+  year: 2025
+  url: https://doi.org/10.1016/j.actaastro.2025.01.067
+  image: /assets/img/uploads/2025/02/25-5.jpg
+- title: Experimental and numerical analysis on influence of air staging in a tangential flow burner for pure ammonia combustion
+  authors_journal: M Srinivasarao, S Kumar, BJ Lee, BR Giri, KP Shrestha, VM Reddy, Applied Thermal Engineering (2025) 266:125580
+  year: 2025
+  url: https://doi.org/10.1016/j.applthermaleng.2025.125580
+  image: /assets/img/uploads/2025/01/25-4.jpg
+- title: A computational investigation of pressure effects on soot formation in counterflow diffusion flames of methane in MILD conditions
+  authors_journal: S Garnayak, P Selvaraj, BJ Lee, VM Reddy, Combustion and Flame (2025) 272:113863
+  year: 2025
+  url: https://doi.org/10.1016/j.combustflame.2024.113863
+  image: /assets/img/uploads/2024/12/24-16.png
+- title: Impact of flue gas recirculation methods on NO emissions and flame stability in a swirling methane burner
+  authors_journal: SH Cho, G Lee, BJ Lee, A Song, C Lee, KM Lee, Applied Thermal Engineering (2025) 261:125139
+  year: 2025
+  url: https://doi.org/10.1016/j.applthermaleng.2024.125139
+  image: /assets/img/uploads/2024/12/24-15.jpg
+- title: A Survey of research on lunar dust dispersal due to rocket plume impingement
+  authors_journal: J Kim, J Kim, BJ Lee, Acta Astronautica (2025) 227:67-95
+  year: 2025
+  url: https://doi.org/10.1016/j.actaastro.2024.11.021
+  image: /assets/img/uploads/2024/11/24-14.jpg
+- title: Nozzle Flow Characterization of the SNU Hypersonic Shock Tunnel
+  authors_journal: J Kim, J Kim, J Hur, BJ Lee, IS Jeung, International Journal of Aeronautical and Space Sciences (2025) 26:953-962
+  year: 2025
+  url: https://doi.org/10.1007/s42405-024-00806-5
+  image: /assets/img/uploads/2024/09/24-13.png
+- title: Guidelines for the Safe Handling of Hypergolic Propellants in Development of Space Propulsion Systems
+  authors_journal: Y Ju, C Song, BJ Lee, Journal of Propulsion and Energy (2024) 4(1):42-57
+  year: 2024
+  url: https://doi.org/10.6108/JPNE.2024.4.1.042
+  image: /assets/img/uploads/2025/03/24-2-1024x711.jpg
+- title: Numerical Investigation of Scramjet Inlet Models for Side Spillage Reduction
+  authors_journal: S Han, Y Park, J Park, J Nam, BJ Lee, HJ Lee, Aerospace Science and Technology (2024) 153:109423
+  year: 2024
+  url: https://doi.org/10.1016/j.ast.2024.109423
+  image: /assets/img/uploads/2024/08/24-12.jpg
+- title: Experimental and Numerical Investigation of the Effects of Porous Bleed Systems on a Model Scramjet Inlet under High Backpressure Conditions
+  authors_journal: Y Park, J Nam, BJ Lee, YJ Lee, Aerospace Science and Technology (2024) 151:109264
+  year: 2024
+  url: https://doi.org/10.1016/j.ast.2024.109264
+  image: /assets/img/uploads/2024/08/24-11.jpg
+- title: Design Procedure of a Variable Rectangular Inlet for TBCC Engine Considering Mass Flow Requirements
+  authors_journal: Y Kim, HJ Lee, BJ Lee, International Journal of Aeronautical and Space Sciences (2024) 25:933-953
+  year: 2024
+  url: https://doi.org/10.1007/s42405-024-00725-5
+  image: /assets/img/uploads/2024/08/24-10.png
+- title: 'Modified Reacting Solver: A Simplified Approach for Capturing the Molecular and Flow Diffusivities for the Nonpremixed MILD Flames'
+  authors_journal: M Srinivasarao, BJ Lee, VM Reddy, ACS Omega (2024) 9(14):15804-15817
+  year: 2024
+  url: https://doi.org/10.1021/acsomega.3c07212
+  image: /assets/img/uploads/2024/08/24-8.gif
+- title: Large Eddy simulation of the effects of radiative heat loss on combustion instability prediction
+  authors_journal: J Lee, D Jun, B Chun, SM Mousavi, BJ Lee, SA Faroughi, Acta Astronautica (2024) 217:312-322
+  year: 2024
+  url: https://doi.org/10.1016/j.actaastro.2024.01.045
+  image: /assets/img/uploads/2024/08/24-7.jpg
+- title: Bubble Generation Mechanisms in Microchannel under Microgravity and Heterogeneous Wettability
+  authors_journal: SM Mousavi, J Lee, BJ Lee, D Jarrahbashi, N Karimi, SA Faroughi, Physics of Fluids (2024) 36:023351, chosen as Editor's Pick & Featured Article.
+  year: 2024
+  url: https://doi.org/10.1063/5.0188262
+  image: /assets/img/uploads/2024/08/24-6.jpeg
+- title: Numerical Investigation of the Dynamic Instability of a Re-entry Capsule in Transonic Flow
+  authors_journal: S Han, BJ Lee, MA Furudate, H Nagai, AIAA Journal (2024) 62(2):449-459
+  year: 2024
+  url: https://arc.aiaa.org/doi/10.2514/1.J063428
+  image: /assets/img/uploads/2024/08/24-5.jpeg
+- title: Numerical study on the reinitiation mechanism of detonation propagating through double slits in a planar channel
+  authors_journal: D Jun, D Kwon, BJ Lee, Combustion and Flame (2024) 261:113271
+  year: 2024
+  url: https://doi.org/10.1016/j.combustflame.2023.113271
+  image: /assets/img/uploads/2024/08/24-4.jpg
+- title: Numerical analysis of the enrichment of CH4/H2 in ammonia combustion in a hot co-flow environment
+  authors_journal: M Srinivasarao, D Jun, BJ Lee, VM Reddy, International Journal of Hydrogen Energy (2024) 55:1071-1089
+  year: 2024
+  url: https://doi.org/10.1016/j.ijhydene.2023.11.160
+  image: /assets/img/uploads/2024/08/24-3.jpg
+- title: The potential for anti-icing wing and aircraft applications of mixed-wettability surfaces – a comprehensive review
+  authors_journal: SM Mousavi, F Sotoudeh, B Chun, BJ Lee, N Karimi, SA Faroughi, Cold Regions Science and Technology (2024) 217:104042
+  year: 2024
+  url: https://doi.org/10.1016/j.coldregions.2023.104042
+  image: /assets/img/uploads/2024/08/24-2-1.jpg
+- title: On the effects of adding syngas to an ammonia-MILD combustion regime—A computational study of the reaction zone structure
+  authors_journal: SM Mousavi, BJ Lee, J Kim, F Sotoudeh, B Chun, D Jun, N Karimi, J Abolfazli Esfahani, International Journal of Hydrogen Energy (2024) 52:226-240
+  year: 2024
+  url: https://doi.org/10.1016/j.ijhydene.2023.03.441
+  image: /assets/img/uploads/2024/08/24-1.jpg
+- title: Quantitative comparison of dam break and bubble flows based on CF-VOF and IR-VOF schemes
+  authors_journal: J Lee, SM Mousavi, BJ Lee, SA Faroughi, International Journal of Modern Physics C (2023) 35:2450062
+  year: 2023
+  url: https://dx.doi.org/10.1142/S0129183124500621
+  image: /assets/img/uploads/2024/12/23-11.png
+- title: Parametric instability in propagating flames and the impact of hydrogen enrichment on the onset of secondary instability
+  authors_journal: D Jun, BJ Lee, Physics of Fluids (2023) 35:106117
+  year: 2023
+  url: https://doi.org/10.1063/5.0173083
+  image: /assets/img/uploads/2024/08/23-10.jpeg
+- title: 'On the Effects of Fractal Geometry on Reacting/Non-Reacting Flows in a Low-Swirl Burner: A Numerical Study with Large-Eddy Simulation'
+  authors_journal: B Chun, SM Mousavi, J Lee, BJ Lee, SA Faroughi, Case Studies in Thermal Engineering (2023) 49:103385
+  year: 2023
+  url: https://doi.org/10.1016/j.csite.2023.103385
+  image: /assets/img/uploads/2024/08/23-9.jpg
+- title: 'Impact of Hybrid Surfaces on the Droplet Breakup Dynamics in Microgravity Slug Flow: A Dynamic Contact Angle Analysis'
+  authors_journal: SM Mousavi, D Jarrahbashi, BJ Lee, N Karimi, SA Faroughi, Physics of Fluids (2023) 35:072003
+  year: 2023
+  url: https://doi.org/10.1063/5.0159118
+  image: /assets/img/uploads/2024/08/23-8.jpeg
+- title: Validation of Numerical Simulations for Investigating Flow Control in Hypersonic Inlets
+  authors_journal: Y Park, J Nam, Y Kim, D Jun, BJ Lee, YJ Lee, Aerospace Science and Technology (2023) 140:108452
+  year: 2023
+  url: https://doi.org/10.1016/j.ast.2023.108452
+  image: /assets/img/uploads/2024/08/23-7.jpg
+- title: Experimental and numerical investigation on ultra-high intensity premixed LPG- air combustion in a novel porous stack burner
+  authors_journal: D Sharma, BJ Lee, S KK Dash, VM Reddy, Energy (2023) 272:127148
+  year: 2023
+  url: https://doi.org/10.1016/j.energy.2023.127148
+  image: /assets/img/uploads/2024/08/23-6.jpg
+- title: Deep residual neural network for predicting aerodynamic coefficient changes with ablation
+  authors_journal: DH Lee, DU Lee, S Han, S Seo, BJ Lee, J Ahn, Aerospace Science and Technology (2023) 136:108207
+  year: 2023
+  url: https://doi.org/10.1016/j.ast.2023.108207
+  image: /assets/img/uploads/2024/08/23-5.jpg
+- title: 'Natural and synthetic superhydrophobic surfaces: A review of the fundamentals'
+  authors_journal: F Sotoudeh, SM Mousavi, N Karimi, BJ Lee, J Abolfazli Esfahani, M K.D Manshadi, Alexandria Engineering Journal (2023) 68:587-609
+  year: 2023
+  url: https://doi.org/10.1016/j.aej.2023.01.058
+  image: /assets/img/uploads/2024/08/23-4.jpg
+- title: Chemical kinetic analysis to study the potential of fuel staging in reducing the emissions from NH3/CH4-air combustion at different pressures
+  authors_journal: Y Vijrumbana, AS Singh, BJ Lee, VM Reddy, Fuel (2023) 339:127404
+  year: 2023
+  url: https://doi.org/10.1016/j.fuel.2023.127404
+  image: /assets/img/uploads/2024/08/23-3.jpg
+- title: Selecting the safe area and finding proper ventilation in the spread of the COVID-19 Virus
+  authors_journal: S Karami, E Lakzian, S Shabani, S Dykas, F Salmani, BJ Lee, ME Warkiani, HD Kim, G Ahmai, Energies (2023) 16(4):1672
+  year: 2023
+  url: https://doi.org/10.3390/en16041672
+  image: /assets/img/uploads/2024/08/23-2-1024x419.png
+- title: Passive Control Optimization of Condensation Flow in Steam Turbine Blades
+  authors_journal: E Lakzian, S Yazdani, BJ Lee, International Journal of Mechanical Sciences (2023) 237:107804
+  year: 2023
+  url: https://doi.org/10.1016/j.ijmecsci.2022.107804
+  image: /assets/img/uploads/2024/08/23-1.jpg
+- title: 'Investigation of bubble structure in a microchannel under microgravity conditions: Effects of discontinuous wettability with dynamic contact angle'
+  authors_journal: SM Mousavi, BJ Lee, Acta Astronautica(2022) 201:394-400
+  year: 2022
+  url: https://doi.org/10.1016/j.actaastro.2022.09.048
+  image: /assets/img/uploads/2024/08/22-6.jpg
+- title: 'Effect of hybrid wall contact angles on slug flow behavior in a T-junction microchannel: A numerical study'
+  authors_journal: 'SM Mousavi, F Sotoudeh, BJ Lee, M Paydari, N Karimi, Colloids and Surfaces A: Physicochemical and Engineering Aspects (2022) 650:129677'
+  year: 2022
+  url: https://doi.org/10.1016/j.colsurfa.2022.129677
+  image: /assets/img/uploads/2024/08/22-5.jpg
+- title: 'On the effects of NH3 addition to a reacting mixture of H2/CH4 under MILD combustion regime: Numerical modeling with a modified EDC combustion model'
+  authors_journal: SM Mousavi, F Sotoudeh, D Jun, BJ Lee, JA Esfahani, N Karimi, Fuel (2022) 326:125096
+  year: 2022
+  url: https://doi.org/10.1016/j.fuel.2022.125096
+  image: /assets/img/uploads/2024/08/22-4.jpg
+- title: Numerical investigations on tri-fuel chemical kinetics of hydrogen + Methane +LPG/air mixtures using reduced skeletal mechanism
+  authors_journal: D Sharma, AS Singh, R Alsulami, BJ Lee, SK Dash, VM Reddy, International Journal of Hydrogen Energy (2022) 47(54):23038-23059
+  year: 2022
+  url: https://doi.org/10.1016/j.ijhydene.2022.05.095
+  image: /assets/img/uploads/2024/08/22-3.jpg
+- title: Kinetic study of plasma assisted oxidation of H2 for an undiluted lean mixture
+  authors_journal: R Snoeckx, D Jun, BJ Lee, MS Cha, Combustion and Flame (2022) 242:112205
+  year: 2022
+  url: https://doi.org/10.1016/j.combustflame.2022.112205
+  image: /assets/img/uploads/2024/08/22-2.jpg
+- title: Examination of the effects of porosity upon intensification of thermal storage of PCMs in a shell-and-tube type system
+  authors_journal: M Abbasi, SM Mousavi, BJ Lee, JA Esfahani, N Karimi, MY Mamaghani, Case Studies in Thermal Engineering (2022) 33:101963
+  year: 2022
+  url: https://doi.org/10.1016/j.csite.2022.101963
+  image: /assets/img/uploads/2024/08/22-1.jpg
+- title: Geometrical inlet effects on the behavior of a non-premixed fully turbulent syngas combustion; a numerical study
+  authors_journal: F Sotoudeh, J Abolfazli-Esfahani, E Goshtasbi-Rad, N Karimi, BJ Lee, IS Jeung, MKD Manshadi, KC Kim, Acta Astronautica (2021) 189:1–9
+  year: 2021
+  url: https://doi.org/10.1016/j.actaastro.2021.08.021
+  image: /assets/img/uploads/2024/08/21-8.jpg
+- title: 'Effect of the preheated oxidizer temperature on soot formation and flame structure in turbulent methane-air diffusion flames at 1 and 3 atm: A CFD investigation'
+  authors_journal: S Garnayak, S Mohapatra, SK Dash, BJ Lee, VM Reddy, Energies (2021) 14(12):3671
+  year: 2021
+  url: https://doi.org/10.3390/en14123671
+  image: /assets/img/uploads/2024/08/21-7-1024x824.webp
+- title: NOx emission characteristics of CH4 versus O2/CO2 counterflow non-premixed flames at various pressures up to 300 atm
+  authors_journal: KS Jung, HS Pak, ND Nguyen, BJ Lee, CS Yoo, Fuel (2021) 299:120411
+  year: 2021
+  url: https://doi.org/10.1016/j.fuel.2021.120411
+  image: /assets/img/uploads/2024/08/21-6.jpg
+- title: Understanding droplet collision with superhydrophobic-hydrophobic–hydrophilic hybrid surfaces
+  authors_journal: 'SM Mousavi, R Kamali, F Sotoudeh, N Karimi, BJ Lee, D Khojastesh, Colloids and Surfaces A: Physicochemical and Engineering Aspects (2021) 614:126140'
+  year: 2021
+  url: https://doi.org/10.1016/j.colsurfa.2021.126140
+  image: /assets/img/uploads/2024/08/21-5.jpg
+- title: Wavefront distortion due to the shock wave and boundary layer in the supersonic flow over a compression ramp
+  authors_journal: S Lee, BJ Lee, IS Jeung, Aerospace Science and Technology (2021) 110:106489
+  year: 2021
+  url: https://doi.org/10.1016/j.ast.2021.106489
+  image: /assets/img/uploads/2024/08/21-4.jpg
+- title: Real-gas-flamelet-model-based numerical simulation and combustion instability analysis of a GH2/LOX rocket combustor with multiple injectors
+  authors_journal: WS Hwang, BK Sung, W Han, KY Huh, BJ Lee, HS Han, CH Sohn, JY Choi, Energies (2021) 14(2):419
+  year: 2021
+  url: https://doi.org/10.3390/en14020419
+  image: /assets/img/uploads/2024/08/21-3-1024x659.png
+- title: Numerical and chemical kinetic analysis to evaluate the effect of steam dilution and pressure on combustion of n-dodecane in a swirling flow environment
+  authors_journal: S Mohapatra, S Garnayak, BJ Lee, AM Elbaz, WL Roberts, SK Dash, MR Vanteru, Fuel (2021) 288:119710
+  year: 2021
+  url: https://doi.org/10.1016/j.fuel.2020.119710
+  image: /assets/img/uploads/2024/08/21-2.jpg
+- title: Numerical investigation of the plasma assisted MILD combustion of a CH4/H2 fuel blend under various working conditions
+  authors_journal: SM Mousavi, R Kamali, F Sotoudeh, N Karimi, BJ Lee, Journal of Energy Resources Technology (2021) 143(6):062302
+  year: 2021
+  url: https://doi.org/10.1115/1.4048507
+  image: /assets/img/uploads/2024/08/21-1-1024x698.png
+- title: Numerical simulation of a GH2/LOx single injector combustor and the effect of the turbulent Schmidt number
+  authors_journal: WS Hwang, W Han, KY Huh, J Kim, BJ Lee, JY Choi, Energies (2020) 13(24):6616
+  year: 2020
+  url: https://doi.org/10.3390/en13246616
+  image: /assets/img/uploads/2024/08/20-7-1024x598.png
+- title: Response characteristics of a laminar premixed flame to acoustic perturbations
+  authors_journal: H Lee, BJ Lee, JPNE (2020) 1(1):24-31
+  year: 2020
+  url: https://doi.org/10.6108/JPNE.2020.1.1.024
+  image: /assets/img/uploads/2024/08/20-6.png
+- title: Effects of differential diffusion on the stabilization of unsteady lean premixed flames behind a bluff-body
+  authors_journal: YJ Kim, BJ Lee, HG Im, Flow, Turbulence and Combustion (2020) 106:1125–1141
+  year: 2020
+  url: https://doi.org/10.1007/s10494-020-00217-y
+  image: /assets/img/uploads/2024/08/20-5-1024x607.webp
+- title: Dynamics and stability of premixed hydrogen-air flames in square microchannels with wall temperature gradients
+  authors_journal: S Lee, BJ Lee, Proceedings of the Combustion institute (2020) 38(2):1933–1943
+  year: 2020
+  url: https://doi.org/10.1016/j.proci.2020.06.014
+  image: /assets/img/uploads/2024/08/20-4-1024x962.jpg
+- title: Study on decay characteristics of vertical four-vortex system for increasing airport capacity
+  authors_journal: J Cho, BJ Lee, T Misaka, K Yee, Aerospace Science and Technology (2020) 105:106017
+  year: 2020
+  url: https://doi.org/10.1016/j.ast.2020.106017
+  image: /assets/img/uploads/2024/08/20-3-1.jpg
+- title: Numerical analysis of thermochemical nonequilibrium flows in a model scramjet engine
+  authors_journal: S Han, S Lee, BJ Lee, Energies (2020) 13(3):606
+  year: 2020
+  url: https://doi.org/10.3390/en13030606
+  image: /assets/img/uploads/2024/08/20-2-1024x786.webp
+- title: Large Eddy Simulation on the effects of pressure on syngas/air turbulent nonpremixed jet flames
+  authors_journal: PP Ciottoli, BJ Lee, PE Lapenna, RM Galassi, FEH Pérez, E Martelli, M Valorani, HG Im, Combustion Science and Technology (2020) 192(10):1963–1996
+  year: 2020
+  url: https://doi.org/10.1080/00102202.2019.1632300
+  image: /assets/img/uploads/2024/08/20-1-1024x740.jpg
+- title: Experimental study on the discharge coefficient of bi-swirl coaxial injectors
+  authors_journal: K Ahn, BJ Lee, Journal of Applied Fluid Mechanics (2019) 12(5):1439–1447
+  year: 2019
+  url: https://doi.org/10.29252/jafm.12.05.29533
+  image: /assets/img/uploads/2024/08/19-6.png
+- title: Three-dimensional simulation of ionic wind in a laminar premixed Bunsen flame subjected to a transverse DC electric field
+  authors_journal: M Belhi, BJ Lee, MS Cha, HG Im, Combustion and Flame (2019) 202:90–106
+  year: 2019
+  url: https://doi.org/10.1016/j.combustflame.2019.01.005
+  image: /assets/img/uploads/2024/08/19-5-1024x737.jpg
+- title: Analysis of active cooling panels in a scramjet combustor considering the thermal cracking of hydrocarbon fuel
+  authors_journal: P Sreekireddy, TKK Reddy, P Selvaraj, VM Reddy, BJ Lee, Applied Thermal Engineering (2019) 147:231–241
+  year: 2019
+  url: https://doi.org/10.1016/j.applthermaleng.2018.10.078
+  image: /assets/img/uploads/2024/08/19-4-1024x805.jpg
+- title: Detonation onset in a thermally stratified constant volume reactor
+  authors_journal: A Sow, BJ Lee, FEH Pérez, HG Im, Proceedings of the Combustion institute (2019) 37(3):3529–3536
+  year: 2019
+  url: https://doi.org/10.1016/j.proci.2018.08.043
+  image: /assets/img/uploads/2024/08/19-3-1024x615.jpg
+- title: Hydrodynamic and chemical scaling for blow-off dynamics of lean premixed flames stabilized on a meso-scale bluff-body
+  authors_journal: YJ Kim, BJ Lee, HG Im, Proceedings of the Combustion institute (2019) 37(2):1831–1841
+  year: 2019
+  url: https://doi.org/10.1016/j.proci.2018.05.026
+  image: /assets/img/uploads/2024/08/19-2-1024x883.jpg
+- title: Revisiting unsteady shock-induced combustion with modern analysis techniques
+  authors_journal: PK Pavalavanni, CH Sohn, BJ Lee, JY Choi, Proceedings of the Combustion Institute (2019) 37(3):3637–3644
+  year: 2019
+  url: https://doi.org/10.1016/j.proci.2018.07.094
+  image: /assets/img/uploads/2024/08/19-1-739x1024.jpg
+- title: Differential diffusion effect on the stabilization characteristics of autoignited laminar lifted methane/hydrogen jet flames in heated coflow air
+  authors_journal: KS Jung, SO Kim, T Lu, SH Chung, BJ Lee, CS Yoo, Combustion and Flame (2018) 198:305–319
+  year: 2018
+  url: https://doi.org/10.1016/j.combustflame.2018.09.026
+  image: /assets/img/uploads/2024/08/18-3-1024x854.jpg
+- title: Numerical study of the effects of a counterflow jet on the drag reduction of a blunt body in a hypersonic flow
+  authors_journal: H Yoon, HJ Lee, BJ Lee, IS Jeung, International Journal of Aeronautical and Space Sciences (2018) 19(4):828–835
+  year: 2018
+  url: https://doi.org/10.1007/s42405-018-0095-2
+  image: /assets/img/uploads/2024/08/18-2.png
+- title: Dynamics of lean premixed flames stabilized on a meso-scale bluff-body in an unconfined flow field
+  authors_journal: YJ Kim, BJ Lee, HG Im, Mathematical Modelling of Natural Phenomena (2018) 13(6):48
+  year: 2018
+  url: https://doi.org/10.1051/mmnp/2018051
+  image: /assets/img/uploads/2024/08/APL-로고-03.png
+- title: Direct numerical simulations of reacting flows with detailed chemistry using many-core/GPU acceleration
+  authors_journal: FEH Pérez, N Mukhadiyev, X Xu, A Sow, BJ Lee, R Sankaran, HG Im, Computers and Fluids (2018) 173:73–79
+  year: 2018
+  url: https://doi.org/10.1016/j.compfluid.2018.03.074
+  image: /assets/img/uploads/2024/08/18-1.jpg
+- title: A computational study of the effects of DC electric fields on non-premixed counterflow methane-air flames
+  authors_journal: 'M Belhi, BJ Lee, F Bisetti, HG Im, Journal of Physics D: Applied Physics (2017) 50:494005'
+  year: 2017
+  url: https://doi.org/10.1088/1361-6463/aa94bb
+  image: /assets/img/uploads/2024/08/17-2.jpg
+- title: Dynamics of bluff-body-stabilized lean premixed syngas flames in a meso-scale channel
+  authors_journal: BJ Lee, HG Im, Proceedings of the Combustion Institute (2017) 36(1):1569–1576
+  year: 2017
+  url: https://doi.org/10.1016/j.proci.2016.06.129
+  image: /assets/img/uploads/2024/08/17-1-1024x767.jpg
+- title: An improved ghost-cell immersed boundary method for compressible flow simulations
+  authors_journal: C Chi, BJ Lee, HG Im, Int. J. Numer. Methods Fluids (2016) 83(2):132–148
+  year: 2016
+  url: https://doi.org/10.1002/fld.4262
+  image: /assets/img/uploads/2024/08/16-5-1024x739.jpg
+- title: 'Ozone production with dielectric barrier discharge: effects of power source and humidity'
+  authors_journal: X Zhang, BJ Lee, HG Im, MS Cha, IEEE Transactions on Plasma Science (2016) 44(10):2288–2296
+  year: 2016
+  url: https://doi.org/10.1109/TPS.2016.2601246
+  image: /assets/img/uploads/2024/08/16-4-1.gif
+- title: Detonation mode and frequency analysis under high loss conditions for stoichiometric propane-oxygen
+  authors_journal: S Jackson, BJ Lee, JE Shepherd, Combustion and Flame (2016) 167:24–38
+  year: 2016
+  url: https://doi.org/10.1016/j.combustflame.2016.02.030
+  image: /assets/img/uploads/2024/08/16-3-1-1024x320.jpg
+- title: DC field response of one-dimensional flames using an ionized layer model
+  authors_journal: Y Xiong, DG Park, BJ Lee, SH Chung, MS Cha, Combustion and Flame (2016) 163:317–325
+  year: 2016
+  url: https://doi.org/10.1016/j.combustflame.2015.10.007
+  image: /assets/img/uploads/2024/08/16-2-1.jpg
+- title: 'A computational study of ethylene–air sooting flames: effects of large polycyclic aromatic hydrocarbons'
+  authors_journal: P Selvaraj, PG Arias, BJ Lee, HG Im, Y Wang, Y Gao, S Park, SM Sarathy, T Lu, SH Chung, Combustion and Flame (2016) 16:427–436
+  year: 2016
+  url: https://doi.org/10.1016/j.combustflame.2015.10.017
+  image: /assets/img/uploads/2024/08/16-1-1024x752.jpg
+- title: A novel numerical flux for the 3D Euler equations with general equation of state
+  authors_journal: EF Toro, CE Castro, BJ Lee, Journal of Computational Physics (2015) 303:80–94
+  year: 2015
+  url: https://doi.org/10.1016/j.jcp.2015.09.037
+  image: /assets/img/uploads/2024/08/15-2-1024x800.jpg
+- title: Dynamics of bluff-body-stabilized premixed hydrogen/air flames in a narrow channel
+  authors_journal: BJ Lee, CS Yoo, HG Im, Combustion and Flame (2015) 162:2602–2609
+  year: 2015
+  url: https://doi.org/10.1016/j.combustflame.2015.03.009
+  image: /assets/img/uploads/2024/08/15-1-1024x635.jpg
+- title: Multi-phase simulation of ammonium nitrate emulsion detonations
+  authors_journal: S Schoch, N Nikiforakis, BJ Lee, R Saurel, Combustion and Flame (2013) 160(9):1883– 1899
+  year: 2013
+  url: https://doi.org/10.1016/j.combustflame.2013.03.033
+  image: /assets/img/uploads/2024/08/13-3.jpg
+- title: The propagation of detonation waves in nonideal condensed-phase explosives confined by high sound-speed materials
+  authors_journal: S Schoch, N Nikiforakis, BJ Lee, Physics of Fluids (2013) 25:086102
+  year: 2013
+  url: https://doi.org/10.1063/1.4817069
+  image: /assets/img/uploads/2024/08/13-2.jpeg
+- title: Adaptive Osher-type scheme for the Euler equations with highly nonlinear equations of state
+  authors_journal: BJ Lee, EF Toro, CE. Castro, N Nikiforakis, Journal of Computational Physics (2013) 246:165–183
+  year: 2013
+  url: https://doi.org/10.1016/j.jcp.2013.03.046
+  image: /assets/img/uploads/2024/08/13-1.jpg
+- title: Flow characteristics of small-sized supersonic inlets
+  authors_journal: HJ Lee, BJ Lee, SD Kim, IS Jeung, Journal of Propulsion and Power (2011) 27(2):306–318
+  year: 2011
+  url: https://doi.org/10.2514/1.46101
+  image: /assets/img/uploads/2024/08/11-1.png
+- title: Aerodynamic heating characteristics over a protuberance in hypersonic flows using fast response thermo gauges
+  authors_journal: HJ Lee, BJ Lee, IS Jeung, SL Kim, IS Kim, International Journal of Aeronautical and Space Sciences (2010)
+  year: 2010
+  url: https://doi.org/10.5139/IJASS.2010.11.3.193
+  image: /assets/img/uploads/2024/08/10-2.png
+- title: Investigation of the pseudo-shock wave in a two-dimensional supersonic inlet
+  authors_journal: HJ Lee, BJ Lee, SD Kim, IS Jeung, Journal of Visualization (2010) 13(1):25–32
+  year: 2010
+  url: https://doi.org/10.1007/s12650-009-0008-3
+  image: /assets/img/uploads/2024/08/09-4.webp
+- title: Robust HLLC Riemann solver with weighted average flux scheme for strong shock
+  authors_journal: SD Kim, BJ Lee, HJ Lee, IS Jeung, Journal of Computational Physics (2009) 228(20):7634–7642
+  year: 2009
+  url: https://doi.org/10.1016/j.jcp.2009.07.006
+  image: /assets/img/uploads/2024/08/09-3.gif
+- title: Numerical study of spontaneous ignition of pressurized hydrogen released by the failure of a rupture disk into a tube
+  authors_journal: BJ Lee, IS Jeung, International Journal of Hydrogen Energy (2009) 34(20):8763–8769
+  year: 2009
+  url: https://doi.org/10.1016/j.ijhydene.2009.08.034
+  image: /assets/img/uploads/2024/08/20-2.jpg
+- title: Realization of contcact resolving approximate Riemann solvers for strong shock and expansion flows
+  authors_journal: SD Kim, BJ Lee, HJ Lee, IS Jeung, JY Choi, International Journal for Numerical Method in Fluids(2009) 62(10):1107-1133
+  year: 2009
+  url: https://doi.org/10.1002/fld.2057
+  image: /assets/img/uploads/2024/08/09-1-1024x589.png

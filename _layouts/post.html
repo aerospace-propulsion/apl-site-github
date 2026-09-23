@@ -1,0 +1,13 @@
+---
+layout: default
+crumb: Board
+---
+<p class="post-meta">작성일 {{ page.date | date: '%Y-%m-%d' }}</p>
+<div class="post-body">
+{{ content }}
+</div>
+<nav class="post-nav">
+  <span>{% if page.next %}<a href="{{ page.next.url | relative_url }}">&larr; 다음글: {{ page.next.title }}</a>{% endif %}</span>
+  <a class="btn" href="{{ '/board/' | relative_url }}">목록보기</a>
+  <span>{% if page.previous %}<a href="{{ page.previous.url | relative_url }}">이전글: {{ page.previous.title }} &rarr;</a>{% endif %}</span>
+</nav>

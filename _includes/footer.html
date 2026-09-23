@@ -1,0 +1,20 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <img src="{{ '/assets/img/logo.jpg' | relative_url }}" alt="APL">
+      <p class="footer-addr">{{ site.lab.name_ko }} · {{ site.lab.name_en }}<br>
+        {{ site.lab.address }}<br>
+        T. {{ site.lab.phone }} &nbsp;|&nbsp; E. {{ site.lab.email }}</p>
+    </div>
+    <div>
+      <div class="footer-links">
+        <a href="{{ '/directions/' | relative_url }}">찾아오시는 길</a>
+        <a href="https://www.snu.ac.kr" target="_blank" rel="noopener">서울대학교</a>
+        <a href="https://aerospace.snu.ac.kr" target="_blank" rel="noopener">항공우주공학과</a>
+      </div>
+      <p class="footer-copy" style="margin-bottom:6px">발사체 사진: 한국항공우주연구원(KARI), 공공누리 제1유형</p>
+      <p class="footer-copy">© {{ site.time | date: '%Y' }} SEOUL NATIONAL UNIVERSITY · AEROSPACE PROPULSION LABORATORY</p>
+    </div>
+  </div>
+  <a class="to-top" href="#" aria-label="맨 위로">TOP</a>
+</footer>

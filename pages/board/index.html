@@ -1,0 +1,20 @@
+---
+crumb: Board
+title: APL Update
+subtitle: Board
+permalink: /board/
+---
+<p class="post-meta">전체 {{ site.posts | size }}건</p>
+<div class="board-grid">
+  {% for post in site.posts %}
+  <article class="board-card">
+    <a href="{{ post.url | relative_url }}" class="thumb">
+      {% if post.thumb %}<img src="{{ post.thumb | relative_url }}" alt="" loading="lazy">{% endif %}
+    </a>
+    <div class="body">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y-%m-%d' }}</time>
+    </div>
+  </article>
+  {% endfor %}
+</div>

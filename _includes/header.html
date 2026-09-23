@@ -1,0 +1,32 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/img/logo.jpg' | relative_url }}" alt="APL 항공우주추진연구실" class="brand-logo">
+    </a>
+    <button class="nav-toggle" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="site-nav">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="site-nav" class="site-nav">
+      <ul class="nav-list">
+        {% for item in site.data.nav %}
+        {% assign item_url = item.url | relative_url %}
+        {% assign active = false %}
+        {% if page.url == item.url %}{% assign active = true %}{% endif %}
+        {% for child in item.children %}{% if page.url == child.url %}{% assign active = true %}{% endif %}{% endfor %}
+        {% if item.title == 'Board' and page.layout == 'post' %}{% assign active = true %}{% endif %}
+        <li class="nav-item{% if item.children %} has-children{% endif %}{% if active %} active{% endif %}">
+          <a href="{{ item_url }}">{{ item.title }}</a>
+          {% if item.children %}
+          <button class="sub-toggle" type="button" aria-label="{{ item.title }} 하위 메뉴"></button>
+          <ul class="sub-list">
+            {% for child in item.children %}
+            <li{% if page.url == child.url %} class="current"{% endif %}><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

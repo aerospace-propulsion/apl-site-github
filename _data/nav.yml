@@ -1,0 +1,38 @@
+# 상단 메뉴 구조. 항목을 추가/삭제하면 메뉴가 자동으로 바뀝니다.
+- title: APL
+  url: /apl/
+- title: Member
+  url: /member/pi/
+  children:
+    - title: PI
+      url: /member/pi/
+    - title: Staff
+      url: /member/staff/
+    - title: Ph.D.
+      url: /member/phd/
+    - title: M.S.
+      url: /member/ms/
+    - title: Alumni
+      url: /member/alumni/
+- title: Research
+  url: /research/interests/
+  children:
+    - title: Research Interests
+      url: /research/interests/
+    - title: Projects
+      url: /research/projects/
+    - title: Experimental Facilities
+      url: /research/facilities/
+    - title: Clusters
+      url: /research/clusters/
+    - title: Equipments Reservation
+      url: /research/equipments-reservation/
+- title: Publications
+  url: /publications/international/
+  children:
+    - title: International Journal
+      url: /publications/international/
+    - title: Domestic Journal
+      url: /publications/domestic/
+- title: Board
+  url: /board/

@@ -1,0 +1,110 @@
+---
+layout: default
+title: null
+hide_title: true
+wide: true
+permalink: /
+---
+<section class="hero">
+  <div class="hero-media hero-slider" aria-hidden="true">
+    {% for s in site.data.home.slides %}
+    <div class="slide{% if forloop.first %} on{% endif %}" data-caption="{{ s.alt }}">
+      {% if s.video %}<video src="{{ s.video | relative_url }}" poster="{{ s.image | relative_url }}" autoplay muted loop playsinline></video>
+      {% else %}<img src="{{ s.image | relative_url }}" alt=""{% if s.pos %} style="object-position: {{ s.pos }}"{% endif %}{% unless forloop.first %} loading="lazy"{% endunless %}>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  <div class="hero-content">
+    <span class="eyebrow">Seoul National University · Dept. of Aerospace Engineering</span>
+    <h1>Aerospace <span>Propulsion</span> Laboratory</h1>
+    <p class="lead">{{ site.data.home.tagline }}</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="{{ '/research/interests/' | relative_url }}">연구 분야 보기</a>
+      <a class="btn btn-ghost" href="{{ '/publications/international/' | relative_url }}">Publications</a>
+      <a class="btn btn-ghost" href="{{ '/member/pi/' | relative_url }}">Join APL</a>
+    </div>
+  </div>
+  <div class="hero-caption" id="hero-caption">{{ site.data.home.slides[0].alt }}</div>
+  <div class="hero-controls">
+    <button class="prev" type="button" aria-label="이전">&#8249;</button>
+    {% for s in site.data.home.slides %}<button class="dot{% if forloop.first %} on{% endif %}" type="button" aria-label="슬라이드 {{ forloop.index }}"></button>{% endfor %}
+    <button class="next" type="button" aria-label="다음">&#8250;</button>
+  </div>
+</section>
+
+{% assign n_members = site.data.members.staff | size | plus: site.data.members.phd.size | plus: site.data.members.ms.size %}
+{% assign n_intl = site.data.publications_international | size %}
+{% assign n_dom = site.data.publications_domestic | size %}
+{% assign n_proj = site.data.projects.current | size %}
+<div class="stats">
+  <div><b>{{ n_intl | plus: n_dom }}</b><span>Journal papers</span></div>
+  <div><b>{{ n_proj }}</b><span>Active projects</span></div>
+  <div><b>{{ n_members }}</b><span>Researchers</span></div>
+  <div><b>Mach 6.8</b><span>SNU Hypersonic Shock Tunnel</span></div>
+</div>
+
+<section class="home-section container">
+  <div class="section-head">
+    <div><span class="eyebrow">Research</span><h2>연구 분야</h2></div>
+    <a href="{{ '/research/interests/' | relative_url }}">전체 보기 &rarr;</a>
+  </div>
+  <div class="area-grid">
+    {% for a in site.data.home.areas %}
+    <a class="area-card" href="{{ a.url | relative_url }}">
+      <img src="{{ a.image | relative_url }}" alt="" loading="lazy">
+      <div class="body">
+        <span class="idx">0{{ forloop.index }}</span>
+        <h3>{{ a.title }}</h3>
+        <p>{{ a.desc }}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="home-section container">
+  <div class="home-cols">
+    <div>
+      <div class="section-head">
+        <div><span class="eyebrow">News</span><h2>APL Update</h2></div>
+        <a href="{{ '/board/' | relative_url }}">더 보기 &rarr;</a>
+      </div>
+      <ul class="news-list">
+        {% for post in site.posts limit: 6 %}
+        <li><a href="{{ post.url | relative_url }}">
+          {% if post.thumb %}<img class="thumb" src="{{ post.thumb | relative_url }}" alt="" loading="lazy">{% else %}<span class="thumb"></span>{% endif %}
+          <span class="t">{{ post.title }}</span>
+          <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+        </a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div>
+      <div class="section-head">
+        <div><span class="eyebrow">Recent</span><h2>Publications</h2></div>
+        <a href="{{ '/publications/international/' | relative_url }}">전체 &rarr;</a>
+      </div>
+      <div class="pub-mini">
+        {% for p in site.data.publications_international limit: 3 %}
+        <a href="{{ p.url }}" target="_blank" rel="noopener">
+          <span><span class="t">{{ p.title }}</span><br><span class="c">{{ p.authors_journal }}</span></span>
+          <img src="{{ p.image | relative_url }}" alt="" loading="lazy">
+        </a>
+        {% endfor %}
+      </div>
+      <div class="notice-card" style="margin-top:24px">
+        <span class="eyebrow">Notice</span>
+        {{ site.data.home.notice | markdownify }}
+      </div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <div>
+      <span class="eyebrow">Join us</span>
+      <h2>함께 연구할 대학원생과 연구원을 찾습니다</h2>
+      <p>극초음속 공기역학·추진, 수소 연소, 우주 기술에 관심 있는 학생은 CV·GPA·영어 성적을 갖추어 이메일로 연락 주십시오.</p>
+    </div>
+    <a class="btn btn-primary" href="{{ '/member/pi/' | relative_url }}">Contact Prof. Bok Jik Lee</a>
+  </div>
+</section>

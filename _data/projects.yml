@@ -1,0 +1,88 @@
+# 연구 과제 목록. current(진행 중) / past(종료) 로 나뉘며, 각 항목은 name(과제명), sponsor(지원기관), period(기간).
+current:
+  - name: 우주 소형 무인제조 플랫폼 실증
+    sponsor: 우주항공청
+    period: 2026.04.-2030.12.
+  - name: 화성탐사를 위한 화성대기 진입-감속-착륙 핵심 기술 설계 및 시연
+    sponsor: 우주항공청
+    period: 2025.07.-2026.12.
+  - name: 우주 수송 임무 센터
+    sponsor: 우주항공청
+    period: 2025.06.-2029.12.
+  - name: 우주발사체 자세 안정성 분석을 위한 공력특성 연구
+    sponsor: 한화에어로스페이스(주)
+    period: 2025.04.-2027.12.
+  - name: 화성탐사캡슐의 대기권 진입 시 공력가열 및 동적 불안정성에 대한 연구
+    sponsor: 과학기술정보통신부
+    period: 2025.03.-2028.02.
+  - name: Control of Combustion Instability Using Electric Fields
+    sponsor: AOARD
+    period: 2025.01.-2027.12.
+  - name: 고신뢰성 액체 연소 해석체계 구축
+    sponsor: 한화에어로스페이스(주)
+    period: 2024.12.-2027.12.
+  - name: 광역마하수 고온환경 소형 경량 연료공급장치 기술 연구
+    sponsor: 현대로템
+    period: 2024.09.-2028.11.
+  - name: 광역마하수 가변형흡입구 및 구동장치 기술 연구
+    sponsor: 방위사업청
+    period: 2024.05.-2028.11.
+  - name: 특화연구센터
+    sponsor: 방위사업청
+    period: 2022.11.-2028.10.
+
+past:
+  - name: 데이터 기반 유동 모델링 특화연구실 2단계
+    sponsor: 국방과학연구소
+    period: 2023.04.-2025.12.
+  - name: 연료공급 및 유량조절장치의 비행형 개념 연구
+    sponsor: 현대로템
+    period: 2024.11.-2025.12.
+  - name: 비접촉식 우주물체 원격제어 기술 연구
+    sponsor: 한국항공우주학회
+    period: 2025.03.-2025.12.
+  - name: 우주항공청 신규프로젝트 탐색연구
+    sponsor: 우주항공청
+    period: 2024.10.-2025.11.
+  - name: 미래도전국방기술연구개발사업
+    sponsor: 방위사업청
+    period: 2022.11.-2025.10.
+  - name: 달 착륙 임무를 위한 이원추진 및 먼지 비산 영향 연구
+    sponsor: 한국연구재단
+    period: 2024.05.-2025.06.
+  - name: 다단 사이클 및 팽창식 사이클 적용을 위한 터보펌프 요소 기술 연구
+    sponsor: 현대로템 주식회사
+    period: 2023.08.-2024.07.
+  - name: 추력 영향성 분석 및 엔진 흡기필터 결빙 해소 연구
+    sponsor: 한국항공우주산업(주)
+    period: 2023.07.-2024.06.
+  - name: "데이터 기반 유동 모델링 특화연구실 1단계: 유도탄 형상변화 적응공력 생산기술 연구"
+    sponsor: 국방과학연구소
+    period: 2020.12.-2022.12.
+  - name: 강제운동 유동해석을 통한 비행체 및 분리체 미계수 산출기법 연구
+    sponsor: 국방과학연구소
+    period: 2020.12.-2022.12.
+  - name: 경계층 제어장치 형상에 따른 극초음속 흡입구 유동 및 성능 예측
+    sponsor: 한국항공우주연구원
+    period: 2020.04.-2023.09.
+  - name: 기계학습을 이용한 반응유동 수치해석의 상세반응기구 대체 연구
+    sponsor: 과학기술정보통신부
+    period: 2020.03.-2022.02.
+  - name: "미래해양기술클러스터: 실제유체모델 적용 Liquid Expander 노즐 설계 및 유동해석"
+    sponsor: 대우조선해양/서울대학교
+    period: 2020.03.-2021.02.
+  - name: "미래해양기술클러스터: 실제유체모델 적용 Partial admission impulse turbine 노즐 유동해석"
+    sponsor: 대우조선해양/서울대학교
+    period: 2019.09.-2019.12.
+  - name: Development of a numerical platform for plasma chemistry
+    sponsor: KAUST
+    period: 2019.05.-2019.07.
+  - name: GPU를 활용한 난류연소해석 가속
+    sponsor: 서울대학교
+    period: 2019.04.-2021.03.
+  - name: 발전용 H급 가스터빈 can-type 저선회 버너 원천기술 개발
+    sponsor: 산업통상자원부
+    period: 2019.01.-2022.04.
+  - name: 상세반응기구 및 실제기체모델을 이용한 액체로켓 연소해석 기반구축 및 검증
+    sponsor: 과학기술정보통신부
+    period: 2017.04.-2020.06.

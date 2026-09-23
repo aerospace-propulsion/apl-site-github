@@ -1,0 +1,26 @@
+{% comment %} 사용법: {% include member-grid.html group="phd" %} {% endcomment %}
+{% assign members = site.data.members[include.group] %}
+<div class="member-grid">
+  {% for m in members %}
+  <article class="member-card">
+    <div class="photo">
+      {% if m.photo %}
+      {% if m.photo contains '://' %}{% assign photo = m.photo %}{% else %}{% assign photo = m.photo | relative_url %}{% endif %}
+      <img src="{{ photo }}" alt="{{ m.name }}" loading="lazy">
+      {% endif %}
+    </div>
+    <div class="body">
+      <p class="role">{{ m.role }}</p>
+      <h3 class="name">{{ m.name }}</h3>
+      {% if m.name_en %}<p class="name-en">{{ m.name_en }}</p>{% endif %}
+      {% if m.email %}<p class="email">{{ m.email }}</p>{% endif %}
+      {% if m.current %}<p class="email">{{ m.current }}</p>{% endif %}
+      {% if m.topics %}
+      <ul>
+        {% for t in m.topics %}<li>{{ t }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>

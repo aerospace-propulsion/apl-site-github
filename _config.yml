@@ -1,0 +1,52 @@
+title: APL - 항공우주추진연구실
+title_en: Aerospace Propulsion Laboratory
+description: Aerospace Propulsion Laboratory (APL), Department of Aerospace Engineering, Seoul National University
+lang: ko
+
+# GitHub Pages 주소.
+#  - 사용자/조직 페이지(예: https://aerospace-propulsion.github.io)면 baseurl은 ""
+#  - 프로젝트 페이지(예: https://aerospace-propulsion.github.io/snu-apl)면 baseurl: "/snu-apl"
+#  - 커스텀 도메인(apl.snu.ac.kr)을 붙이면 url을 그 주소로, baseurl은 "" 로 두면 됩니다.
+url: "https://aerospace-propulsion.github.io"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: /board/:year/:month/:day/:title/
+timezone: Asia/Seoul
+future: true
+
+# GitHub Pages가 지원하는 플러그인만 사용
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+  - tools
+
+# 연구실 정보 (푸터 등에서 사용)
+lab:
+  name_ko: 항공우주추진연구실
+  name_en: Aerospace Propulsion Laboratory
+  address: 08826 서울시 관악구 관악로1 서울대학교 제1공학관(301동) 1304호
+  phone: 02-880-7415
+  email: b.lee [at] snu.ac.kr
+  pi: Bok Jik Lee

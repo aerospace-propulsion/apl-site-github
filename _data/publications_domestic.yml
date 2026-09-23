@@ -1,0 +1,112 @@
+# 논문 목록 (최신순). 새 논문은 맨 위에 추가하면 됩니다.
+# 필드: title, authors_journal(저자·학술지·권호 한 줄), year, url(DOI 링크), image(대표 그림)
+- title: Data-driven Body Vortex Modeling for Improved Prediction of Nonlinear Missile Aerodynamics
+  authors_journal: D Jun, H Nam, H Yoo, H Kim, BJ Lee, Journal of the Korean Society for Aeronautical & Space Sciences (2024) 52(12):999-1007
+  year: 2024
+  url: https://doi.org/10.5139/JKSAS.2024.52.12.999
+  image: /assets/img/uploads/2025/03/24-1.png
+- title: A comparison study of aerodynamic calculation methods with deformation of the missile nose
+  authors_journal: 'S Han, Y Park, S Hong, BJ Lee, Journal of Computational Fluids Engineering (2023) 28(1): 44-52'
+  year: 2023
+  url: http://dx.doi.org/10.6112/kscfe.2023.28.1.044
+  image: /assets/img/uploads/2024/08/23-1.png
+- title: A study on the efficient pressure-based compressible solver for the low-Mach acoustics
+  authors_journal: 'D Jun, BJ Lee, Journal of Computational Fluids Engineering (2022) 27(4): 151-158'
+  year: 2022
+  url: http://doi.org/10.6112/kscfe.2022.27.4.151
+  image: /assets/img/uploads/2024/08/22-1.png
+- title: OpenACC Implementation of two-dimensional compressible flow solver on GPU
+  authors_journal: 'S Kim, S Han, BJ Lee, Journal of Computational Fluids Engineering (2022) 27(3): 111-119'
+  year: 2022
+  url: http://dx.doi.org/10.6112/kscfe.2022.27.3.111
+  image: /assets/img/uploads/2024/08/22-2.png
+- title: Survey on research and development of e-Fuel
+  authors_journal: 'J Lee, BJ Lee, Journal of The Korean Society Combustion (2022) 27(1): 37-57'
+  year: 2022
+  url: https://doi.org/10.15231/jksc.2022.27.1.037
+  image: /assets/img/uploads/2024/08/22-3.png
+- title: Artificial neural network for the representation of chemical kinetics in reactive flows
+  authors_journal: 'J Lee, BJ Lee, Journal of The Korean Society Combustion (2022) 27(1): 17-26'
+  year: 2022
+  url: https://doi.org/10.15231/jksc.2022.27.1.017
+  image: /assets/img/uploads/2024/08/22-4-1.png
+- title: Application of Artificial Neural Network to predict Aerodynamic Coefficients of the Nose Section of the Missiles
+  authors_journal: 'JY Lee, BJ Lee, Journal of the Korean Society for Aeronautical & Space Sciences (2021) 49(11): 901-907'
+  year: 2021
+  url: https://doi.org/10.5139/JKSAS.2021.49.11.901
+  image: /assets/img/uploads/2024/08/21-1-1.png
+- title: Survey on research and development of field emission electric propulsion thrusters
+  authors_journal: 'J Park, BJ Lee, IS Jeung, Journal of the Korean Society of Propulsion Engineers (2021) 25(5): 36-52'
+  year: 2021
+  url: https://doi.org/10.6108/KSPE.2021.25.5.036
+  image: /assets/img/uploads/2024/08/21-2-1.jpg
+- title: Performance analysis of OpenFOAM-based CFD solvers using GPGPU
+  authors_journal: 'S Han, H Jeong, BJ Lee, Journal of Computational Fluids Engineering (2021) 26(2): 1-9'
+  year: 2021
+  url: https://doi.org/10.6112/kscfe.2021.26.2.001
+  image: /assets/img/uploads/2024/08/21-3-1.png
+- title: A study on the application of OpenFOAM-based adaptive mesh refinement to combustion simulations
+  authors_journal: 'D Jun, BJ Lee, Journal of Computational Fluids Engineering (2020) 25(1): 91-97'
+  year: 2020
+  url: https://doi.org/10.6112/kscfe.2020.25.1.091
+  image: /assets/img/uploads/2024/08/20-1.png
+- title: Numerical study on turbulent reacting flows with respect to the swirler core blockage ratios of a low-swirl model combustor
+  authors_journal: 'SD Kim, H Jeong, BJ Lee, Journal of The Korean Society of Combustion (2019) 24(4): 25–30'
+  year: 2019
+  url: https://doi.org/10.15231/jksc.2019.24.4.025
+  image: /assets/img/uploads/2024/08/19-1.png
+- title: Non-reacting flow structure of a low swirl combustor with respect to inlet velocities
+  authors_journal: H Jeong, BJ Lee, K Lee, Journal of the Korean Society of Propulsion Engineers (2018) 22(6):56–63
+  year: 2018
+  url: https://doi.org/10.6108/kspe.2018.22.6.056
+  image: /assets/img/uploads/2024/08/18-1.png
+- title: A study on the flame liftoff height in a lean-premixed low swirl combustor
+  authors_journal: H Jeong, BJ lee, M Han, K Lee, Journal of the Korean Society of Combustion (2018) 23(3):36–42
+  year: 2018
+  url: https://doi.org/10.15231/jksc.2018.23.3.036
+  image: /assets/img/uploads/2024/08/18-2-1.png
+- title: Influence of spanwise computational domain size for LES of bluff-body-stabilized turbulent flames
+  authors_journal: H Lee, BJ Lee, Journal of Computational Fluids Engineering (2018) 23(2):53–60
+  year: 2018
+  url: https://doi.org/10.6112/kscfe.2018.23.2.053
+  image: /assets/img/uploads/2024/08/18-3.png
+- title: Characteristics of the transverse fuel injection into a supersonic crossflow using various injector geometries
+  authors_journal: S Kim, BJ Lee, IS Jeung, H Lee, Journal of the Korean Society of Propulsion Engineers (2018) 22(3):53–64
+  year: 2018
+  url: https://doi.org/10.6108/kspe.2018.22.3.053
+  image: /assets/img/uploads/2024/08/18-4.png
+- title: A study on the fuel-air mixing and reacting characteristics of a transverse injection with different injector shape
+  authors_journal: S Kim, BJ Lee, IS Jeung, H Lee, Journal of The Korean Society of Combustion (2018) 23(3):19–27
+  year: 2018
+  url: https://doi.org/10.15231/jksc.2018.23.3.019
+  image: /assets/img/uploads/2024/08/18-5.png
+- title: Survey on laser ablation micro-thruster for small satellites
+  authors_journal: YM Park, BJ Lee, Journal of the Korean Society of Propulsion Engineers (2018) 22(1):98–106
+  year: 2018
+  url: https://doi.org/10.6108/kspe.2018.22.1.098
+  image: /assets/img/uploads/2024/08/18-6.png
+- title: Aerodynamic Measurement over a Protuberance in Hypersonic Flows Using Coaxial Thermocouple and TSP
+  authors_journal: HJ Lee, BJ Lee, IS Jeung, SL Kim, IS Kim, Journal of The Korean Society for Aeronautical & Space Sciences (2009) 37(10):967-974
+  year: 2009
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01259540
+  image: /assets/img/uploads/2025/07/09-2.png
+- title: Measurement of Aerodynamic Heating over a Protuberance in Hypersonic Flow of Mach 7
+  authors_journal: HJ Lee, BJ Lee, IS Jeung, SL Kim, IS Kim, Journal of The Korean Society for Aeronautical & Space Sciences (2009) 37(6):562-570
+  year: 2009
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01198778
+  image: /assets/img/uploads/2025/07/09-1.png
+- title: 'Design/Construction and Performance Test of Hypersonic Shock Tunnel : Part Ⅱ: Construction and Performance Test of Hypersonic Shock Tunnel'
+  authors_journal: HJ Lee, BJ Lee, SH Kim, IS Jeung, Journal of The Korean Society for Aeronautical & Space Sciences (2008) 36(4):328-336
+  year: 2008
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01100748
+  image: /assets/img/uploads/2025/07/08-1.png
+- title: 'Design/Construction and Performance Test of Hypersonic Shock Tunnel : Part Ⅰ: Design Method of Hypersonic Shock Tennel'
+  authors_journal: BJ Lee, HJ Lee, SH Kim, IS Jeung, Journal of The Korean Society for Aeronautical & Space Sciences (2008) 36(4):321-327
+  year: 2008
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01100747
+  image: /assets/img/uploads/2025/07/08-2.png
+- title: Base Drag Prediction of Supersonic Missile Using CFD
+  authors_journal: BJ Lee, Journal of the Computational Fluids Engineering (2006) 11(3):59-63
+  year: 2006
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE00803931
+  image: /assets/img/uploads/2025/07/06-1.png
