@@ -7,7 +7,7 @@ lang: ko
 #  - 사용자/조직 페이지(예: https://aerospace-propulsion.github.io)면 baseurl은 ""
 #  - 프로젝트 페이지(예: https://aerospace-propulsion.github.io/snu-apl)면 baseurl: "/snu-apl"
 #  - 커스텀 도메인(apl.snu.ac.kr)을 붙이면 url을 그 주소로, baseurl은 "" 로 두면 됩니다.
-url: "https://aerospace-propulsion.github.io"
+url: "https://space.snu.ac.kr"
 baseurl: ""
 
 markdown: kramdown
