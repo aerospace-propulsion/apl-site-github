@@ -1,5 +1,10 @@
 # 논문 목록 (최신순). 새 논문은 맨 위에 추가하면 됩니다.
 # 필드: title, authors_journal(저자·학술지·권호 한 줄), year, url(DOI 링크), image(대표 그림)
+- title: 'Emission reduction through fuel staging in a three-stage tangential flow ammonia combustor'
+  authors_journal: 'M Srinivasarao, G Udaybhanu, G Sorrentino, M de Joannon, S Kumar, BJ Lee, WL Roberts, VM Reddy, Fuel (2027) 430:141205'
+  year: 2027
+  url: https://doi.org/10.1016/j.fuel.2026.141205
+  image: /assets/img/uploads/2026/10/27-1.jpg
 - title: 'Viscoelastic droplet impact on surfaces with sharp wettability contrast: Coupled influence of relaxation time and surface tension'
   authors_journal: 'M Mousavi, P Tayerani, S Stephens, C Ruskowski, BJ Lee, Experimental and Computational Multiphase Flow (2026) Available Online.'
   year: 2026
