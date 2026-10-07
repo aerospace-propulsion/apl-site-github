@@ -1,10 +1,10 @@
 # 홈 화면 슬라이드와 공지. 슬라이드는 image(정지 이미지) 또는 video(mp4, image는 포스터) 로 지정합니다.
-tagline: 극초음속 공기역학과 추진, 수소 에너지·연소, 우주 기술을 실험과 고성능 전산해석으로 연구합니다. 국내 유일의 고엔탈피 충격파 풍동(SHyST)을 운영합니다.
+tagline: 극초음속 공기역학과 추진, 수소 에너지·연소, 우주 기술을 실험과 고성능 전산해석으로 연구합니다. 고엔탈피 충격파 풍동 SHyST를 운영합니다.
 
 # 홈 화면 연구 분야 카드 4개
 areas:
   - title: Hypersonic Aerodynamics
-    desc: 극초음속·고엔탈피 공력열역학, 강한 충격파용 리만 해법, SHyST 실험과 유동 가시화
+    desc: 극초음속·고엔탈피 공력열역학, 강건한 리만 해법, SHyST 실험과 유동 가시화
     image: /assets/img/uploads/2024/09/1-1.png
     url: /research/interests/
   - title: Hypersonic Propulsion
