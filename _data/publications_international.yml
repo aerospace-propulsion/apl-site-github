@@ -1,5 +1,15 @@
 # 논문 목록 (최신순). 새 논문은 맨 위에 추가하면 됩니다.
 # 필드: title, authors_journal(저자·학술지·권호 한 줄), year, url(DOI 링크), image(대표 그림)
+- title: 'Viscoelastic droplet impact on surfaces with sharp wettability contrast: Coupled influence of relaxation time and surface tension'
+  authors_journal: 'M Mousavi, P Tayerani, S Stephens, C Ruskowski, BJ Lee, Experimental and Computational Multiphase Flow (2026) Available Online.'
+  year: 2026
+  url: https://doi.org/10.1007/s42757-026-0301-6
+  image: /assets/img/uploads/2026/10/26-13.jpg
+- title: 'Numerical analysis of detonation dynamics in ammonia–hydrogen mixtures'
+  authors_journal: 'M Mousavi, P Ramesh, BJ Lee, D Jarrahbashi, International Journal of Hydrogen Energy (2026) 274:157250'
+  year: 2026
+  url: https://doi.org/10.1016/j.ijhydene.2026.157250
+  image: /assets/img/uploads/2026/10/26-12.jpg
 - title: Cryogenic spray characteristics of a multi-slit type throttleable gas-luquid pintle injector
   authors_journal: S Heo, J Jeong, Y Yoon, BJ Lee, Cryogenics (2026) 161:104440
   year: 2026
