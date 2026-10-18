@@ -275,7 +275,8 @@ alumni:
   role: M.S.
   photo: /assets/img/uploads/2023/11/16.-주영준_석사과정_1-e1725782092677.jpeg
   current: Hyundai Rotem
-  topics: Basic Research for the Development of Hypergolic Propellant Engine: MMH/NTO Drop Test and High-Fidelity Simulation of Liquid Jet Impingement (2025)
+  topics:
+  - "Basic Research for the Development of Hypergolic Propellant Engine: MMH/NTO Drop Test and High-Fidelity Simulation of Liquid Jet Impingement (2025)"
 - name: 한서음
   name_en: Seoeum Han
   role: Ph.D.
