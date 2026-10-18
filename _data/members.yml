@@ -99,7 +99,7 @@ phd:
   email: sh.jeong [at] snu.ac.kr
   photo: /assets/img/uploads/2023/11/18.-정석현_석사과정_2.jpg
   topics:
-  - Air-breathing electric propulsion
+  - Resonance ignition
   - Rarefied gas dynamics
   - Regenerative cooling system for SCRamjet/Rocket engine
 - name: 조서희
@@ -163,68 +163,66 @@ ms:
   role: M.S. Student
   email: don0605 [at] snu.ac.kr
   photo: /assets/img/uploads/2026/02/허규돈정복.jpg
+- name: Axel Gannerie
+  name_en: Axel Gannerie
+  role: M.S. Student
+  email: axelgnr [at] snu.ac.kr
+  photo: /assets/img/uploads/2026/10/허규돈정복.jpg
 alumni:
+- name: Linus Engelmann
+  role: Post-doctoral Research Fellow
+  photo: /assets/img/uploads/2024/08/APL-로고-03.png
+  current: Hankook Tire
 - name: Freshteh Sotoudeh
   role: Research Associate (M.S.)
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Pursuing Ph.D. in University of Texas Austin, TX, USA
-  topics:
-  - Multi-phase Flow
 - name: Karl Fredrik Anflo
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Samsung Electronics
-  topics:
-  - Electric space propulsion
-  - Plasma simulation
+  Topics: Three-dimensional Simulation of Hall thruster Plasma and Boundary Interactions in OpenFOAM (2023)
 - name: Mahendra Reddy Vanteru
-  role: Professor at IIT Kharagpur
+  role: Visiting Professor ('23.5-'23.7, '24.5-'24.7)
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
-  current: MILD Combustion
-  topics:
-  - Emission Control
+  current: Professor at IIT Kharagpur
 - name: Rawdha Alhammadi
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Tawazun Technology and Innovation
+  Topics: Aerodynamic Shape Optimization of a Guided Missile Using Reinforcement Learning with a Neural Network Environment (2023)
 - name: 권도환
   name_en: DoHwan Kwon
   role: M.S.
   photo: /assets/img/uploads/2023/11/14.-권도환_석사과정_졸업.jpg
   current: Hyundai Rotem
-  topics:
-  - Supersonic combustion
-  - Machine learning (combustion)
+  topics: 
+  - Numerical Investigation on the Internal Flow Characteristics of a Strut-type Supersonic Combustor (2024)
 - name: 김성돈
   name_en: Sung Don Kim
-  role: Ph.D. Staff Scientist
+  role: Staff Scientist
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
-  current: Low swirl gas turbine combustor
-  topics:
-  - Numerical simulation of turbulent combustion
 - name: 김용수
   name_en: Yongsu Kim
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Samsung Electronics
-  topics:
-  - Numerical simulation of supersonic flow
-  - Ramjet/SCramjet propulsion systems
+  topics: 
+  - Numerical Simulations of Porous Bleed for Flow Control in a Scramjet Inlet (2022)
 - name: 박윤식
   name_en: Yoonsik Park
   role: Ph.D.
   photo: /assets/img/uploads/2023/11/2.-박윤식_박사과정.jpg
   current: Hyundai Heavy Industries
-  topics:
-  - Ramjet/SCRamjet propulsion systems
-  - Hypersonic and high-enthalpy aerothermodynamics
+  topics: 
+  - Numerical Investigation of Internal Flow Field of Hypersonic Air-breathing Propulsion System (2025)
 - name: 박정재
   name_en: Jeongjae Park
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Hanwha Aerospace
   topics:
-  - Hypersonic Flow
+  - Numerical Study on Reduction of Side Spillage in a Scramjet Inlet
 - name: 송영두
   name_en: YoungDoo Song
   role: M.S.
@@ -236,39 +234,35 @@ alumni:
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Republic of Korea Army
   topics:
-  - Space Situational Awareness (SSA)
-  - Space Operation
+  - Collision Risk Analysis of a Satellite with Fragments from Break-up of a Space Object (2023)
 - name: 이상윤
   name_en: Sangyoon Lee
   role: Ph.D.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Inha University
   topics:
-  - Aero-optics
-  - Micro-scale combustion
+  - Comparison of the aero-optical effects due to shock wave and boundary layer in high-speed flow (2020)
 - name: 이정용
   name_en: Jeongyong Lee
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Hyundai Motor Group
   topics:
-  - Machine learning (Combustion & Aerodynamics)
+  - Machine learning for the representation of chemical kinetics in reactive flows (2022)
 - name: 이종윤
   name_en: Jongyoon Lee
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Hanwha Aerospace
   topics:
-  - Supersonic flow
-  - Fuel cell powered aircraft
+  - Performance Analyses for Conceptual Design of Hydrogen Fuel Cell Electric Aircraft (2023)
 - name: 전병주
   name_en: Byoungjoo Chun
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Innospace
   topics:
-  - Low swirl gas turbine combustor
-  - Clean combustion
+  - Numerical Study on Turbulent Flow and Flame Characteristics of Low-Swirl Combustor Depending on Turbulence Generating Plate (2023)
 - name: 정휘원
   name_en: Hwiwon Jeong
   role: M.S.
@@ -281,27 +275,26 @@ alumni:
   role: M.S.
   photo: /assets/img/uploads/2023/11/16.-주영준_석사과정_1-e1725782092677.jpeg
   current: Hyundai Rotem
-  topics:
-  - Hypergolic propellant combustion
+  topics: Basic Research for the Development of Hypergolic Propellant Engine: MMH/NTO Drop Test and High-Fidelity Simulation of Liquid Jet Impingement (2025)
 - name: 한서음
   name_en: Seoeum Han
   role: Ph.D.
   photo: /assets/img/uploads/2023/11/4.-한서음_박사과정-e1725845038883.jpg
   current: Korea Aerospace Research Institute
   topics:
-  - Re-entry aerodynamics
-  - Scramjet propulsion
+  - Numerical study on dynamic instability of a reentry capsule in transonic flow (2021)
 - name: 홍슬기
   name_en: Seulki Hong
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Hanwha Aerospace
-  topics:
-  - Supersonic flow
-  - Fuel cell powered aircraft
+  topics: 
+  - Numerical Study for Evaluation of Dynamic Stability Derivatives using Prescribed Motion (2023)
 - name: 황병욱
   name_en: Byeonguk Hwang
   role: M.S.
   email: uk12221 [at] snu.ac.kr
   photo: /assets/img/uploads/2023/11/20.-황병욱_석사과정.png
   current: Aerodynamics and heat transfer
+  Topics: 
+  - Numerical Investigation of Transonic Buffet on a Hammerhead Payload Fairing (2026)
