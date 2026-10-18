@@ -176,7 +176,6 @@ alumni:
 - name: Freshteh Sotoudeh
   role: Research Associate (M.S.)
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
-  current: Pursuing Ph.D. in University of Texas Austin, TX, USA
 - name: Karl Fredrik Anflo
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
@@ -222,14 +221,15 @@ alumni:
   name_en: Jeongjae Park
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
-  current: Hanwha Aerospace
+  current: Agency for Defense Development
   topics:
-  - Numerical Study on Reduction of Side Spillage in a Scramjet Inlet
+  - Numerical Study on Reduction of Side Spillage in a Scramjet Inlet (2023)
 - name: 송영두
-  name_en: YoungDoo Song
+  name_en: Youngdoo Song
   role: M.S.
   photo: /assets/img/uploads/2024/08/IMG_7107-e1725782050673.jpg
-  current: Hydrogen combustion, Flame modeling
+  topics:
+  - Flame kernel and propagation dynamics during spontaneous ignition of hydrogen (2025) 
 - name: 윤정훈
   name_en: Jeonghoon Yun
   role: M.S.
@@ -241,7 +241,7 @@ alumni:
   name_en: Sangyoon Lee
   role: Ph.D.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
-  current: Inha University
+  current: Assistant Professor, Inha University
   topics:
   - Comparison of the aero-optical effects due to shock wave and boundary layer in high-speed flow (2020)
 - name: 이정용
@@ -285,7 +285,8 @@ alumni:
   photo: /assets/img/uploads/2023/11/4.-한서음_박사과정-e1725845038883.jpg
   current: Korea Aerospace Research Institute
   topics:
-  - Numerical study on dynamic instability of a reentry capsule in transonic flow (2021)
+  - Numerical study on dynamic instability of a reentry capsule in transonic flow (M.Sc., 2021)
+  - Numerical Investigation of Three-Degree-of-Freedom Motion and Dynamic-Instability Mechanisms of the Hayabusa Reentry Capsule in Transonic Flow (Ph.D, 2026)
 - name: 홍슬기
   name_en: Seulki Hong
   role: M.S.
