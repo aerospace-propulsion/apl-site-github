@@ -181,7 +181,8 @@ alumni:
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Samsung Electronics
-  Topics: Three-dimensional Simulation of Hall thruster Plasma and Boundary Interactions in OpenFOAM (2023)
+  topics: 
+  - Three-dimensional Simulation of Hall thruster Plasma and Boundary Interactions in OpenFOAM (2023)
 - name: Mahendra Reddy Vanteru
   role: Visiting Professor ('23.5-'23.7, '24.5-'24.7)
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
@@ -190,7 +191,8 @@ alumni:
   role: M.S.
   photo: /assets/img/uploads/2024/08/APL-로고-03.png
   current: Tawazun Technology and Innovation
-  Topics: Aerodynamic Shape Optimization of a Guided Missile Using Reinforcement Learning with a Neural Network Environment (2023)
+  topics: 
+  - Aerodynamic Shape Optimization of a Guided Missile Using Reinforcement Learning with a Neural Network Environment (2023)
 - name: 권도환
   name_en: DoHwan Kwon
   role: M.S.
@@ -297,5 +299,5 @@ alumni:
   email: uk12221 [at] snu.ac.kr
   photo: /assets/img/uploads/2023/11/20.-황병욱_석사과정.png
   current: Aerodynamics and heat transfer
-  Topics: 
+  topics: 
   - Numerical Investigation of Transonic Buffet on a Hammerhead Payload Fairing (2026)
