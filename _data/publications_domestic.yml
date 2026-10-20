@@ -1,5 +1,10 @@
 # 논문 목록 (최신순). 새 논문은 맨 위에 추가하면 됩니다.
 # 필드: title, authors_journal(저자·학술지·권호 한 줄), year, url(DOI 링크), image(대표 그림)
+- title: Validation and Evaluation of Knopp Roughness Modeling for Turbulent Flow and Heat Transfer under Varying Roughness Regimes
+  authors_journal: 'S Jeong, S Han, BJ Lee, Journal of Computational Fluids Engineering (2025) 30(4): 19-31'
+  year: 2025
+  url: https://doi.org/10.6112/kscfe.2025.30.4.019
+  image: /assets/img/uploads/2025/12/25-1.png
 - title: Data-driven Body Vortex Modeling for Improved Prediction of Nonlinear Missile Aerodynamics
   authors_journal: D Jun, H Nam, H Yoo, H Kim, BJ Lee, Journal of the Korean Society for Aeronautical & Space Sciences (2024) 52(12):999-1007
   year: 2024
