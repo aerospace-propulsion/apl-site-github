@@ -21,29 +21,45 @@ areas:
     url: /research/interests/
 
 slides:
-  # 사진 출처: 한국항공우주연구원(KARI), 공공누리 제1유형(출처표시). 연구실 사진으로 교체하려면 image 경로만 바꾸면 됩니다.
-  - image: /assets/img/hero/nuri-launch-2021.jpg
-    pos: 60% 40%   # 사진에서 보여줄 위치(가로 세로)
-    alt: "누리호(KSLV-II) 1차 발사, 2021.10.21 (사진: 한국항공우주연구원)"
-  - image: /assets/img/hero/kslv2-75t-combustor-test.jpg
-    alt: "한국형발사체 75톤급 연소기 연소시험 (사진: 한국항공우주연구원)"
   - video: /assets/img/uploads/2024/08/combustion-instability-1.mp4
     image: /assets/img/uploads/2024/08/combustion-instability-1.jpg
     alt: "연소 불안정 수치해석 (APL)"
-  - image: /assets/img/hero/nuri-first-stage-cluster-test.jpg
-    alt: "누리호 1단 300톤급 클러스터링 연소시험 (사진: 한국항공우주연구원)"
+  - image: /assets/img/hero/dualswirl-nh3-h2-flames.jpg
+    pos: center 75%   # 세로 사진이라 위아래가 잘림. 버너 출구와 아래 줄 화염이 보이도록 맞춤
+    alt: "Ammonia/hydrogen dual swirl flames (APL)"
   - video: /assets/img/uploads/2024/08/collisions_of_two_rings.mp4
     image: /assets/img/uploads/2024/08/collisions_of_two_rings.jpg
     alt: "와류 고리 충돌 해석 (APL)"
-  - image: /assets/img/hero/kslv2-75t-engine.jpg
-    pos: 65% center
-    alt: "한국형발사체 75톤급 액체엔진 (사진: 한국항공우주연구원)"
-  - image: /assets/img/hero/nuri-on-launchpad.jpg
-    pos: 70% center
-    alt: "나로우주센터 발사대에 기립한 누리호 (사진: 한국항공우주연구원)"
+  - video: /assets/img/hero/mmh-nto-drop-test.mp4
+    image: /assets/img/hero/mmh-nto-drop-test.jpg
+    pos: center 75%   # 컵과 떨어지는 액적이 보이도록 아래쪽에 맞춤
+    alt: "MMH-NTO hypergolic drop test (APL)"
+  - video: /assets/img/hero/supersonic-parachute.mp4
+    image: /assets/img/hero/supersonic-parachute.jpg
+    pos: 0% center   # 왼쪽 캡슐부터 낙하산까지 보이도록 왼쪽에 맞춤
+    alt: "Supersonic parachute 유동 해석 (APL)"
   - video: /assets/img/uploads/2024/08/propeller_정석현.mp4
     image: /assets/img/uploads/2024/08/propeller_정석현.jpg
     alt: "프로펠러 유동 해석 (APL)"
+  - video: /assets/img/hero/propagating-flame-instability.mp4
+    image: /assets/img/hero/propagating-flame-instability.jpg
+    alt: "CH4/H2/Air premixed flame의 propagating flame instability (APL)"
+  - image: /assets/img/hero/apl-laser-diagnostics-lab.jpg
+    pos: center 55%   # 세로 사진이라 위아래가 많이 잘림. 광학 테이블과 레이저 시트 쪽에 맞춤
+    alt: "APL laser diagnostics 실험실"
+  - image: /assets/img/hero/reentry-footprint-koonibba.jpg
+    pos: center 45%
+    alt: "재진입 캡슐 궤적 분산과 낙하 영역 해석 (APL)"
+  - image: /assets/img/hero/satellite-fragmentation.jpg
+    alt: "위성 파편화(fragmentation) 해석 (APL)"
+  - video: /assets/img/hero/solar-sail-earth-mars.mp4
+    image: /assets/img/hero/solar-sail-earth-mars.jpg
+    alt: "Earth-Mars solar sail transfer 궤적 해석 (APL)"
+  - image: /assets/img/hero/solar-sail-gto-polar-geo.jpg
+    pos: 40% center   # 오른쪽 colorbar 쪽을 덜 보이게
+    alt: "Solar sail GTO-polar GEO 궤도 전이 해석 (APL)"
+  - image: /assets/img/hero/laser-debris-removal.jpg
+    alt: "Laser ablation 기반 우주 파편 제거 개념 (APL)"
 
 notice: |
   Those who are interested in joining APL as graduate students and research staffs are kindly asked to contact Prof. Bok Jik Lee in advance via email (b.lee [at] snu.ac.kr) with **CV**, **GPA** and **English records**.

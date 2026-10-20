@@ -9,7 +9,7 @@ permalink: /
   <div class="hero-media hero-slider" aria-hidden="true">
     {% for s in site.data.home.slides %}
     <div class="slide{% if forloop.first %} on{% endif %}" data-caption="{{ s.alt }}">
-      {% if s.video %}<video src="{{ s.video | relative_url }}" poster="{{ s.image | relative_url }}" autoplay muted loop playsinline></video>
+      {% if s.video %}<video src="{{ s.video | relative_url }}" poster="{{ s.image | relative_url }}" autoplay muted loop playsinline{% if s.pos %} style="object-position: {{ s.pos }}"{% endif %}></video>
       {% else %}<img src="{{ s.image | relative_url }}" alt=""{% if s.pos %} style="object-position: {{ s.pos }}"{% endif %}{% unless forloop.first %} loading="lazy"{% endunless %}>{% endif %}
     </div>
     {% endfor %}
