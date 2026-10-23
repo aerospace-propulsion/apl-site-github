@@ -10,11 +10,12 @@
   year: 2027
   url: https://doi.org/10.1016/j.fuel.2026.141205
   image: /assets/img/uploads/2026/10/27-1.jpg
-- title: 'Viscoelastic droplet impact on surfaces with sharp wettability contrast: Coupled influence of relaxation time and surface tension'
-  authors_journal: 'M Mousavi, P Tayerani, S Stephens, C Ruskowski, BJ Lee, Experimental and Computational Multiphase Flow (2026) Available Online.'
-  year: 2026
-  url: https://doi.org/10.1007/s42757-026-0301-6
-  image: /assets/img/uploads/2026/10/26-13.jpg
+# [게재 확인 전까지 숨김]
+# - title: 'Viscoelastic droplet impact on surfaces with sharp wettability contrast: Coupled influence of relaxation time and surface tension'
+#   authors_journal: 'M Mousavi, P Tayerani, S Stephens, C Ruskowski, BJ Lee, Experimental and Computational Multiphase Flow (2026) Available Online.'
+#   year: 2026
+#   url: https://doi.org/10.1007/s42757-026-0301-6
+#   image: /assets/img/uploads/2026/10/26-13.jpg
 - title: 'Numerical analysis of detonation dynamics in ammonia–hydrogen mixtures'
   authors_journal: 'M Mousavi, P Ramesh, BJ Lee, D Jarrahbashi, International Journal of Hydrogen Energy (2026) 274:157250'
   year: 2026
