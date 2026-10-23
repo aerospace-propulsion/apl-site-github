@@ -68,6 +68,10 @@ slides:
     alt: "Double cone 주위의 극초음속 유동: experiment와 simulation 비교 (APL)"
   - image: /assets/img/hero/double-cone-surface-test.jpg
     alt: "Double cone 표면 계측 시험 (APL)"
+  - image: /assets/img/hero/schlieren-wedge.jpg
+    alt: "Wedge 모델 주위 초음속 유동 schlieren 가시화 (APL)"
+  - image: /assets/img/hero/schlieren-plate-array.jpg
+    alt: "다중 plate 끝단의 shock 구조 schlieren 가시화 (APL)"
 
 notice: |
   Those who are interested in joining APL as graduate students and research staffs are kindly asked to contact Prof. Bok Jik Lee in advance via email (b.lee [at] snu.ac.kr) with **CV**, **GPA** and **English records**.
