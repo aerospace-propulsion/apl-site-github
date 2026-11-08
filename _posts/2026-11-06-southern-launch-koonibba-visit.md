@@ -11,7 +11,6 @@ thumb: /assets/img/uploads/2026/11/southern-launch-2026-05.jpg
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-01.jpg" alt="">
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-02.jpg" alt="">
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-03.jpg" alt="">
-<img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-04.jpg" alt="">
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-06.jpg" alt="">
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-07.jpg" alt="">
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-05.jpg" alt="">
