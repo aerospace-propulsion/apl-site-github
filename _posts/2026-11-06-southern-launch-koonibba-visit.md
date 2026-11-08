@@ -1,13 +1,13 @@
 ---
-title: 'Southern Launch 및 Koonibba Test Range 방문, Varda W-8 귀환 관측'
+title: 'APL Visits Southern Launch and the Koonibba Test Range, Witnesses Varda W-8 Return'
 date: '2026-11-06'
 thumb: /assets/img/uploads/2026/11/southern-launch-2026-05.jpg
 ---
 
-<p><strong>Southern Launch 및 Koonibba Test Range 방문</strong></p>
+<p><strong>Visit to Southern Launch and the Koonibba Test Range</strong></p>
 <p>2026.11.4.~5., South Australia</p>
-<p>APL 멤버들이 호주 Southern Launch사와 재진입 캡슐 회수 레인지인 Koonibba Test Range 현장을 방문하였습니다.</p>
-<p>공교롭게도 현지 시간 11월 6일 0시 5분, Varda Space Industries의 W-8 캡슐이 Koonibba Test Range로 귀환하였으며, 그 재진입 장면을 Adelaide에서 서성일 학생이 직접 촬영하였습니다 (마지막 사진).</p>
+<p>APL members visited Southern Launch in South Australia on November 4–5, including a site tour of the Koonibba Test Range, where reentry capsules are recovered after returning from orbit. The team saw the range facilities and ground equipment that support capsule recovery operations. The visit is closely tied to the lab's ongoing research on reentry capsule aerodynamics and stability.</p>
+<p>By coincidence, Varda Space Industries' W-8 capsule returned to the Koonibba Test Range just after the visit, at 00:05 local time on November 6. Seongil Seo, who was in Adelaide that night, captured the reentry trail across the sky (last photo).</p>
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-01.jpg" alt="">
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-02.jpg" alt="">
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/southern-launch-2026-03.jpg" alt="">
