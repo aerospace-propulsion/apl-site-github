@@ -8,7 +8,7 @@ thumb: /assets/img/uploads/2026/11/ksas-2026-fall-03.jpg
 <p>2026.11.10.~13., High1 Resort Grand Hotel, Jeongseon, Korea</p>
 <p>APL members took part in the 2026 Fall Conference of the Korean Society for Aeronautical and Space Sciences (KSAS).</p>
 <ul>
-<li>Oral presentation, Nahyun Kwon: numerical analysis of a supersonic DGB parachute (4% scale MSL model)</li>
+<li>Oral presentation, Nahyun Kwon: "Effects of Design Parameters on the Aerodynamic Characteristics of a Supersonic Disk-Gap-Band Parachute"</li>
 <li>Poster presentation, Jinhwi Kim: "Implementation of an LU-SGS Framework in neqFoam for Steady Thermochemical Nonequilibrium Hypersonic Flows"</li>
 </ul>
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/ksas-2026-fall-01.jpg" alt="">
