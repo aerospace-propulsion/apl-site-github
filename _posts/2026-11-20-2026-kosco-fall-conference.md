@@ -1,6 +1,6 @@
 ---
 title: '72nd KOSCO Conference and the 40th Anniversary of the Korean Society of Combustion'
-date: '2026-11-18'
+date: '2026-11-20'
 thumb: /assets/img/uploads/2026/11/kosco-2026-fall-01.jpg
 ---
 
