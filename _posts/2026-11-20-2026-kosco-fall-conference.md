@@ -17,3 +17,5 @@ thumb: /assets/img/uploads/2026/11/kosco-2026-fall-01.jpg
 <li>Flame visualization, Daeyoung Jun: "BOS Visualization of Premixed and Non-premixed Laminar Flames"</li>
 </ul>
 <img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/kosco-2026-fall-01.jpg" alt="">
+<img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/kosco-2026-fall-02.jpg" alt="">
+<img loading="lazy" src="{{ site.baseurl }}/assets/img/uploads/2026/11/kosco-2026-fall-03.jpg" alt="">
