@@ -1,11 +1,11 @@
 ---
 title: '72nd KOSCO Conference and the 40th Anniversary of the Korean Society of Combustion'
-date: '2026-11-20'
+date: '2026-11-18'
 thumb: /assets/img/uploads/2026/11/kosco-2026-fall-01.jpg
 ---
 
 <p><strong>72nd KOSCO Conference (2026 Fall)</strong></p>
-<p>2026.11.18.~20., Sheraton Jeju Hotel, Jeju, Korea</p>
+<p>2026.11.18.~11.20., Sheraton Jeju Hotel, Jeju, Korea</p>
 <p>The Korean Society of Combustion (KOSCO) held its 72nd conference this fall, marking 40 years since the society was founded. Prof. Bok Jik Lee chaired the organizing committee, and APL members worked on the conference staff throughout the event.</p>
 <p>APL also presented three oral talks, one poster and two entries in the flame visualization exhibition.</p>
 <ul>
